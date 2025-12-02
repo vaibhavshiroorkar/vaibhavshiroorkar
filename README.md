@@ -1,8 +1,10 @@
-<h1 align="center">I'm Vaibhav Shiroorkar</h1>
+<h1 align="center">Vaibhav Shiroorkar</h1>
 <h3 align="center">Software Engineer (AI & Data)</h3>
 
 <p align="center">
-I work across AI, Data , and Software to create efficient, practical, and reliable solutions.
+I work across AI, data engineering, and software development to build efficient, practical, and reliable solutions.
+I enjoy designing clean systems, automating workflows, experimenting with intelligent models, and turning ideas into real, working products.
+My focus is on writing scalable code, understanding data deeply, and learning new technologies that push my abilities forward.
 </p>
 
 ---
