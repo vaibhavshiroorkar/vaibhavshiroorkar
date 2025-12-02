@@ -44,23 +44,23 @@ Always learning. Always improving.
 
 <p align="left">
 
-  <a href="https://www.youtube.com/channel/UCOgPCLdO7puA2inmbt9rE-g" target="_new" rel="noopener noreferrer">
+  <a href="https://www.youtube.com/channel/UCOgPCLdO7puA2inmbt9rE-g" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/zvaibhavz/" target="_new" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/zvaibhavz/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://x.com/vaibhshiroorkar" target="_new" rel="noopener noreferrer">
+  <a href="https://x.com/vaibhshiroorkar" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 
-  <a href="https://discord.com/users/vaibhavshiroorkar" target="_new" rel="noopener noreferrer">
+  <a href="https://discord.com/users/vaibhavshiroorkar" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/vaibhavshiroorkar/" target="_new" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/vaibhavshiroorkar/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
