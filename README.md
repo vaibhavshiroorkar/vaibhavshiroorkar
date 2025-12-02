@@ -2,8 +2,7 @@
 <h3 align="center">Software Engineer (AI & Data)</h3>
 
 <p align="center">
-I build efficient, scalable systems across data, backend, and AI.  
-Always learning. Always improving.
+I work across AI, data engineering, and software development to create efficient, practical, and reliable solutions.
 </p>
 
 ---
