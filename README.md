@@ -9,6 +9,7 @@ Always learning. Always improving.
 ---
 
 ## 🧠 Technical Skills
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
@@ -22,19 +23,25 @@ Always learning. Always improving.
 
 ---
 
-## 💻 Coding Stats  
+## 💻 Coding Stats
+
 <p align="center">
   <a href="https://leetcode.com/vaibhavshiroorkar/" target="_blank" rel="noopener noreferrer">
-    <img width="49%" src="https://leetcard.jacoblin.cool/vaibhavshiroorkar?theme=dark&font=Baloo&ext=heatmap" />
+    <img width="49%" src="https://leetcard.jacoblin.cool/vaibhavshiroorkar?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Card"/>
   </a>
-<a href="https://github.com/VaibhavShiroorkar" target="_blank" rel="noopener noreferrer">
-  <img width="49%" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=VaibhavShiroorkar&show_icons=true&hide_border=true&theme=tokyonight" />
-</a>
+  <a href="https://github.com/vaibhavshiroorkar" target="_blank" rel="noopener noreferrer">
+    <img width="49%" src="./assets/github-stats.svg" alt="GitHub Stats"/>
+  </a>
+</p>
+
+<p align="center">
+  <img width="49%" src="./assets/github-langs.svg" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
+
 <p align="left">
 
   <a href="https://www.youtube.com/channel/UCOgPCLdO7puA2inmbt9rE-g" target="_blank" rel="noopener noreferrer">

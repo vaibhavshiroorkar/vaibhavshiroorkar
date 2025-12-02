@@ -1,0 +1,44 @@
+name: Update GitHub Stats SVGs
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # runs every 6 hours
+  workflow_dispatch:        # allows manual run
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Fetch GitHub stats SVG
+        run: |
+          mkdir -p assets
+          echo "Fetching github-stats..."
+          curl -sf -o assets/github-stats.svg "https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=vaibhavshiroorkar&show_icons=true&hide_border=true&theme=tokyonight" || (echo "Failed to download github-stats" && exit 1)
+          echo "Fetching github-langs..."
+          curl -sf -o assets/github-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavshiroorkar&layout=compact&hide_border=true&theme=tokyonight" || (echo "Failed to download github-langs" && exit 1)
+          if ! grep -q "<svg" assets/github-stats.svg; then
+            echo "github-stats SVG fetch failed or returned non-SVG"; exit 1
+          fi
+          if ! grep -q "<svg" assets/github-langs.svg; then
+            echo "github-langs SVG fetch failed or returned non-SVG"; exit 1
+          fi
+
+      - name: Commit and push if changed
+        env:
+          GIT_COMMITTER_NAME: "github-actions[bot]"
+          GIT_COMMITTER_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
+        run: |
+          git config user.name "$GIT_COMMITTER_NAME"
+          git config user.email "$GIT_COMMITTER_EMAIL"
+          git add assets/github-stats.svg assets/github-langs.svg || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update cached GitHub stats SVGs"
+            git push
+          fi
