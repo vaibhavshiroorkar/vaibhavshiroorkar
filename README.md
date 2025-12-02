@@ -4,9 +4,7 @@
 
 - I work across AI, data engineering, and software development to build efficient, practical, and reliable <a href="https://github.com/vaibhavshiroorkar?tab=repositories" target="_blank">solutions</a>.
 - I enjoy designing clean <a href="https://github.com/vaibhavshiroorkar?tab=repositories" target="_blank">systems</a>, automating workflows, and experimenting with intelligent models to turn ideas into real products.
-- My focus is on writing scalable code, understanding data deeply, and learning new technologies that push my abilities forward.
-<p align="center">
-Email: <a href="mailto:YOUR_EMAIL@gmail.com">shiroorkarvaibhav@gmail.com</a>
+- My focus is on writing scalable code, understanding data deeply, and learning new <a href="https://github.com/vaibhavshiroorkar?tab=repositories" target="_blank">technologies</a> that push my abilities forward.
 
 
 
@@ -29,11 +27,10 @@ Email: <a href="mailto:YOUR_EMAIL@gmail.com">shiroorkarvaibhav@gmail.com</a>
 
 ## 💻 Coding Stats
 
-<p align="center">
-  <a href="https://leetcode.com/vaibhavshiroorkar/" target="_blank" rel="noopener noreferrer">
-    <img width="49%" src="https://leetcard.jacoblin.cool/vaibhavshiroorkar?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Card"/>
-  </a>
-</p>
+
+<a href="https://leetcode.com/vaibhavshiroorkar/" target="_blank" rel="noopener noreferrer">
+  <img width="49%" src="https://leetcard.jacoblin.cool/vaibhavshiroorkar?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Card"/>
+</a>
 
 ---
 
@@ -59,6 +56,9 @@ Email: <a href="mailto:YOUR_EMAIL@gmail.com">shiroorkarvaibhav@gmail.com</a>
   <a href="https://www.linkedin.com/in/vaibhavshiroorkar/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  - <a href="mailto:YOUR_EMAIL@gmail.com">shiroorkarvaibhav@gmail.com</a>
+
 </p>
 
 ---
