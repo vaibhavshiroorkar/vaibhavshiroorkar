@@ -6,9 +6,6 @@
 - I enjoy designing clean <a href="https://github.com/vaibhavshiroorkar?tab=repositories" target="_blank">systems</a>, automating workflows, and experimenting with intelligent models to turn ideas into real products.
 - My focus is on writing scalable code, understanding data deeply, and learning new technologies that push my abilities forward.
 <p align="center">
-I work across AI, data engineering, and software development to build efficient and reliable solutions.<br>
-  
-
 Email: <a href="mailto:YOUR_EMAIL@gmail.com">shiroorkarvaibhav@gmail.com</a>
 
 
