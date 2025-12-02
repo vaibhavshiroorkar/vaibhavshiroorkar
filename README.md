@@ -31,12 +31,11 @@ Always learning. Always improving.
   </a>
   <a href="https://github.com/vaibhavshiroorkar" target="_blank" rel="noopener noreferrer">
     <img width="49%" src="./assets/github-stats.svg" alt="GitHub Stats"/>
-  </a>
+    <img width="49%" src="./assets/github-langs.svg" alt="Top Languages"/>
+  </a> 
+    
 </p>
 
-<p align="center">
-  <img width="49%" src="./assets/github-langs.svg" alt="Top Languages"/>
-</p>
 
 ---
 
