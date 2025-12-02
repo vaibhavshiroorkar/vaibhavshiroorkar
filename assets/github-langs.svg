@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="120"><rect width="100%" height="100%" fill="#0b1020"/><text x="20" y="60" fill="#ffffff" font-size="18">Updating top languages…</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="120" viewBox="0 0 800 120" role="img" aria-label="Top languages unavailable">
+  <rect width="100%" height="100%" fill="#0b1020"/>
+  <text x="40" y="48" fill="#9aa5c3" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="20">Top Languages</text>
+  <text x="40" y="86" fill="#ffffff" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="18">Unavailable — will update when stats service is back</text>
+</svg>
