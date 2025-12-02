@@ -1,12 +1,16 @@
 <h1 align="center">Vaibhav Shiroorkar</h1>
-<h3 align="center">Software Engineer (AI & Data)</h3>
+<h3 align="">Software Engineer (AI & Data)</h3>
 
-  <p align="center">
-    I work across AI, data engineering, and software development to build efficient, practical, and reliable solutions.
-  </p>
-  <p align="center">
-    I enjoy designing clean systems, automating workflows, and experimenting with intelligent models to turn ideas into real products.
-  </p>
+
+- I work across AI, data engineering, and software development to build efficient, practical, and reliable <a href="https://github.com/vaibhavshiroorkar?tab=repositories" target="_blank">solutions</a>.
+- I enjoy designing clean <a href="https://github.com/vaibhavshiroorkar?tab=repositories" target="_blank">systems</a>, automating workflows, and experimenting with intelligent models to turn ideas into real products.
+- My focus is on writing scalable code, understanding data deeply, and learning new technologies that push my abilities forward.
+<p align="center">
+I work across AI, data engineering, and software development to build efficient and reliable solutions.<br>
+  
+
+Email: <a href="mailto:YOUR_EMAIL@gmail.com">shiroorkarvaibhav@gmail.com</a>
+
 
 
 ---
