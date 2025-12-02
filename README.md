@@ -1,11 +1,13 @@
 <h1 align="center">Vaibhav Shiroorkar</h1>
 <h3 align="">Software Engineer (AI & Data)</h3>
 
-
 - I work across AI, data engineering, and software development to build efficient, practical, and reliable <a href="https://github.com/vaibhavshiroorkar?tab=repositories" target="_blank">solutions</a>.
 - I enjoy designing clean <a href="https://github.com/vaibhavshiroorkar?tab=repositories" target="_blank">systems</a>, automating workflows, and experimenting with intelligent models to turn ideas into real products.
 - My focus is on writing scalable code, understanding data deeply, and learning new <a href="https://github.com/vaibhavshiroorkar?tab=repositories" target="_blank">technologies</a> that push my abilities forward.
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=vaibhavshiroorkar&color=blue&style=for-the-badge&label=Profile+Views" />
+</p>
 
 
 ---
