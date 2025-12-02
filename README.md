@@ -59,4 +59,4 @@ Always learning. Always improving.
 
 ---
 
-<p align="center">✨ Thanks for visiting! ✨</p>
+
