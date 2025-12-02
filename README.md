@@ -5,11 +5,9 @@
     I work across AI, data engineering, and software development to build efficient, practical, and reliable solutions.
   </p>
   <p align="center">
-    I enjoy designing clean systems, automating workflows, experimenting with intelligent models, and turning ideas into real, working products.
+    I enjoy designing clean systems, automating workflows, and experimenting with intelligent models to turn ideas into real products.
   </p>
-  <p align="center">
-    My focus is on writing scalable code, understanding data deeply, and learning new technologies that push my abilities forward.
-  </p>
+
 
 ---
 
