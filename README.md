@@ -8,9 +8,7 @@ Always learning. Always improving.
 
 ---
 
-## 🧠 Skills & Tools  
-
-### ⭐ My Technical Skills  
+## 🧠 Technical Skills
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
@@ -29,9 +27,9 @@ Always learning. Always improving.
   <a href="https://leetcode.com/vaibhavshiroorkar/" target="_blank" rel="noopener noreferrer">
     <img width="49%" src="https://leetcard.jacoblin.cool/vaibhavshiroorkar?theme=dark&font=Baloo&ext=heatmap" />
   </a>
-  <a href="https://github.com/VaibhavShiroorkar" target="_blank" rel="noopener noreferrer">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VaibhavShiroorkar&show_icons=true&hide_border=true&theme=tokyonight" />
-  </a>
+<a href="https://github.com/VaibhavShiroorkar" target="_blank" rel="noopener noreferrer">
+  <img width="49%" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=VaibhavShiroorkar&show_icons=true&hide_border=true&theme=tokyonight" />
+</a>
 </p>
 
 ---
