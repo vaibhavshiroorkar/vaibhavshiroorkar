@@ -1,9 +1,23 @@
-name: Update GitHub Stats SVGs
+name: Update GitHub Stats SVGs (tolerant)
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # runs every 6 hours
-  workflow_dispatch:        # allows manual run
+    - cron: '0 */6 * * *'   # every 6 hours
+  workflow_dispatch:        # manual run
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+
+
+cat > .github/workflows/update-stats.yml <<'YAML'
+name: Update GitHub Stats SVGs (tolerant)
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # every 6 hours
+  workflow_dispatch:        # manual run
 
 jobs:
   update-stats:
@@ -14,18 +28,63 @@ jobs:
         with:
           persist-credentials: true
 
-      - name: Fetch GitHub stats SVG
+      - name: Fetch stats with fallbacks
         run: |
-          mkdir -p assets
-          echo "Fetching github-stats..."
-          curl -sf -o assets/github-stats.svg "https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=vaibhavshiroorkar&show_icons=true&hide_border=true&theme=tokyonight" || (echo "Failed to download github-stats" && exit 1)
-          echo "Fetching github-langs..."
-          curl -sf -o assets/github-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavshiroorkar&layout=compact&hide_border=true&theme=tokyonight" || (echo "Failed to download github-langs" && exit 1)
-          if ! grep -q "<svg" assets/github-stats.svg; then
-            echo "github-stats SVG fetch failed or returned non-SVG"; exit 1
-          fi
-          if ! grep -q "<svg" assets/github-langs.svg; then
-            echo "github-langs SVG fetch failed or returned non-SVG"; exit 1
+          set -e
+          mkdir -p assets tmp
+          # urls to try (primary then fallbacks)
+          STATS_URLS=(
+            "https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=vaibhavshiroorkar&show_icons=true&hide_border=true&theme=tokyonight"
+            "https://github-readme-stats-brown-ten.vercel.app/api?username=vaibhavshiroorkar&show_icons=true&hide_border=true&theme=tokyonight"
+            "https://github-readme-stats.vercel.app/api?username=vaibhavshiroorkar&show_icons=true&hide_border=true&theme=tokyonight"
+          )
+          LANGS_URLS=(
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavshiroorkar&layout=compact&hide_border=true&theme=tokyonight"
+            "https://github-readme-stats-brown-ten.vercel.app/api/top-langs/?username=vaibhavshiroorkar&layout=compact&hide_border=true&theme=tokyonight"
+          )
+
+          echo "Trying to fetch github-stats SVG from fallbacks..."
+          STATS_OK=0
+          for url in "${STATS_URLS[@]}"; do
+            echo "Trying: $url"
+            if curl -sfL --max-time 30 "$url" -o tmp/github-stats.tmp.svg; then
+              if grep -q "<svg" tmp/github-stats.tmp.svg; then
+                mv tmp/github-stats.tmp.svg assets/github-stats.svg
+                echo "Fetched and saved assets/github-stats.svg from: $url"
+                STATS_OK=1
+                break
+              else
+                echo "Not valid SVG from $url"
+              fi
+            else
+              echo "Failed to download from $url"
+            fi
+          done
+
+          echo "Trying to fetch github-langs SVG from fallbacks..."
+          LANGS_OK=0
+          for url in "${LANGS_URLS[@]}"; do
+            echo "Trying: $url"
+            if curl -sfL --max-time 30 "$url" -o tmp/github-langs.tmp.svg; then
+              if grep -q "<svg" tmp/github-langs.tmp.svg; then
+                mv tmp/github-langs.tmp.svg assets/github-langs.svg
+                echo "Fetched and saved assets/github-langs.svg from: $url"
+                LANGS_OK=1
+                break
+              else
+                echo "Not valid SVG from $url"
+              fi
+            else
+              echo "Failed to download from $url"
+            fi
+          done
+
+          # clean tmp
+          rm -rf tmp || true
+
+          if [ "$STATS_OK" -eq 0 ] && [ "$LANGS_OK" -eq 0 ]; then
+            echo "No new SVGs fetched from any fallback. Keeping existing cached assets."
+            exit 0
           fi
 
       - name: Commit and push if changed
@@ -39,6 +98,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: update cached GitHub stats SVGs"
+            git commit -m "chore(ci): update cached GitHub stats SVGs (fallback + tolerant)"
             git push
           fi
