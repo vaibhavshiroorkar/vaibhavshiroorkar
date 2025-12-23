@@ -17,7 +17,7 @@
 
 ## 💡 About Me
 
-Hi, I am Vaibhav Shiroorkar, a 20-year-old AI/ML engineer from India> I like building AI systems that actually work in production. I focus on the entire stack—from data pipelines to model deployment—because machine learning without solid engineering is just expensive experimentation.
+Hi, I am Vaibhav Shiroorkar, a 20-year-old AI/ML engineer from India. I like building AI systems that actually work in production. I focus on the entire stack—from data pipelines to model deployment—because machine learning without solid engineering is just expensive experimentation.
 
 ---
 
