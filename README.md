@@ -143,14 +143,11 @@ Hi, I am Vaibhav Shiroorkar, a 20-year-old AI/ML engineer from India. I like bui
 
 ---
 
-## 🔗 Connect
 
-Open to discussing ML engineering, system design, or collaboration opportunities.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavshiroorkar/)
-[![Email](https://img.shields.io/badge/Email-Drop%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shiroorkarvaibhav@gmail.com)
+
 [![Portfolio](https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavshiroorkar?tab=repositories)
 ![Profile Views](https://komarev.com/ghpvc/?username=vaibhavshiroorkar&color=58A6FF&style=for-the-badge)
 
