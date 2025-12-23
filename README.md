@@ -1,4 +1,4 @@
-<!--<div align="center">
+<div align="center">
   
 # 🚀 Vaibhav Shiroorkar
 
@@ -18,57 +18,6 @@
 ## 💡 About Me
 
 Hi, I am Vaibhav Shiroorkar, a 20-year-old AI/ML engineer from India> I like building AI systems that actually work in production. I focus on the entire stack—from data pipelines to model deployment—because machine learning without solid engineering is just expensive experimentation.
-
-```python
-class VaibhavShiroorkar:
-    def __init__(self):
-        self.location = "India 🇮🇳"
-        self.age = 20
-        self.current_focus = "Building AI systems that scale"
-        
-    def expertise(self):
-        return {
-            "backend": ["FastAPI", "Django", "Node.js"],
-            "ml_ops": ["PyTorch", "Model deployment", "Pipeline automation"],
-            "applied_ai": ["LLMs", "RAG systems", "Vector databases"],
-            "infrastructure": ["Docker", "AWS", "CI/CD"]
-        }
-    
-    def philosophy(self):
-        return "ML is one component. Engineering is the foundation."
-```
-
----
-
-## 🚀 Featured Projects
-
-### 🏗️ [FastAPI Production Boilerplate](https://github.com/vaibhavshiroorkar?tab=repositories)
-Production-ready FastAPI template with authentication, database migrations, and Docker deployment
-- JWT authentication & role-based access control
-- PostgreSQL with async SQLAlchemy
-- Redis caching & Celery task queue
-- Comprehensive test coverage
-
-### 🤖 [MLOps Pipeline Framework](https://github.com/vaibhavshiroorkar?tab=repositories)
-End-to-end ML pipeline with automated training, evaluation, and deployment
-- Automated model versioning & experiment tracking
-- CI/CD integration for model deployment
-- Performance monitoring & drift detection
-- Scalable inference API with FastAPI
-
-### 🧠 [RAG System with LangChain](https://github.com/vaibhavshiroorkar?tab=repositories)
-Document Q&A system using retrieval-augmented generation
-- Vector embeddings with ChromaDB
-- Multi-document ingestion pipeline
-- Context-aware response generation
-- Streaming responses with FastAPI
-
-### 📊 [Real-time Data Processing Pipeline](https://github.com/vaibhavshiroorkar?tab=repositories)
-Scalable ETL pipeline for processing streaming data
-- Apache Kafka for event streaming
-- PySpark for distributed processing
-- PostgreSQL & MongoDB dual storage
-- Grafana dashboards for monitoring
 
 ---
 
@@ -118,6 +67,38 @@ Scalable ETL pipeline for processing streaming data
 
 ---
 
+## 🚀 Featured Projects
+
+### 🏗️ [FastAPI Production Boilerplate](https://github.com/vaibhavshiroorkar?tab=repositories)
+Production-ready FastAPI template with authentication, database migrations, and Docker deployment
+- JWT authentication & role-based access control
+- PostgreSQL with async SQLAlchemy
+- Redis caching & Celery task queue
+- Comprehensive test coverage
+
+### 🤖 [MLOps Pipeline Framework](https://github.com/vaibhavshiroorkar?tab=repositories)
+End-to-end ML pipeline with automated training, evaluation, and deployment
+- Automated model versioning & experiment tracking
+- CI/CD integration for model deployment
+- Performance monitoring & drift detection
+- Scalable inference API with FastAPI
+
+### 🧠 [RAG System with LangChain](https://github.com/vaibhavshiroorkar?tab=repositories)
+Document Q&A system using retrieval-augmented generation
+- Vector embeddings with ChromaDB
+- Multi-document ingestion pipeline
+- Context-aware response generation
+- Streaming responses with FastAPI
+
+### 📊 [Real-time Data Processing Pipeline](https://github.com/vaibhavshiroorkar?tab=repositories)
+Scalable ETL pipeline for processing streaming data
+- Apache Kafka for event streaming
+- PySpark for distributed processing
+- PostgreSQL & MongoDB dual storage
+- Grafana dashboards for monitoring
+- 
+---
+
 ## 📊 Stats
 
 <div align="center">
@@ -135,18 +116,6 @@ Scalable ETL pipeline for processing streaming data
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vaibhavshiroorkar?theme=dark&font=Noto%20Sans&ext=heatmap)
 
 </div>
-
----
-
-## 🎓 Approach
-
-> **"ML models are commodities. Production systems are valuable."**
-
-I build systems where machine learning adds value without becoming a liability:
-- **Reliability first** - Systems that work consistently beat perfect models that break
-- **Full-stack ownership** - From data ingestion to API deployment
-- **Pragmatic choices** - Use simple solutions when they work, complex ones when necessary
-- **Production-ready** - Everything I build is designed to run in production, not just locally
 
 ---
 
