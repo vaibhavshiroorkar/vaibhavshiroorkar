@@ -69,52 +69,76 @@ Hi, I am Vaibhav Shiroorkar, a 20-year-old AI/ML engineer from India> I like bui
 
 ## 🚀 Featured Projects
 
-### 🏗️ [FastAPI Production Boilerplate](https://github.com/vaibhavshiroorkar?tab=repositories)
-Production-ready FastAPI template with authentication, database migrations, and Docker deployment
-- JWT authentication & role-based access control
-- PostgreSQL with async SQLAlchemy
-- Redis caching & Celery task queue
-- Comprehensive test coverage
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🤖 <a href="https://github.com/vaibhavshiroorkar?tab=repositories">MLOps Pipeline Framework</a></h3>
+      <p>End-to-end ML pipeline with automated training, evaluation, and deployment.</p>
+      <ul>
+        <li>Automated model versioning & tracking</li>
+        <li>CI/CD for model deployment</li>
+        <li>Performance monitoring & drift detection</li>
+      </ul>
+      <p><b>🛠 Stack:</b> PyTorch, FastAPI, Docker, MLflow</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🧠 <a href="https://github.com/vaibhavshiroorkar?tab=repositories">RAG System with LangChain</a></h3>
+      <p>Document Q&A system using retrieval-augmented generation for complex datasets.</p>
+      <ul>
+        <li>Vector embeddings with ChromaDB</li>
+        <li>Multi-document ingestion pipeline</li>
+        <li>Context-aware streaming responses</li>
+      </ul>
+      <p><b>🛠 Stack:</b> LangChain, ChromaDB, OpenAI, FastAPI</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">📊 <a href="https://github.com/vaibhavshiroorkar?tab=repositories">Real-time Data Pipeline</a></h3>
+      <p>Scalable ETL pipeline designed for processing high-velocity streaming data.</p>
+      <ul>
+        <li>Apache Kafka for event streaming</li>
+        <li>PySpark for distributed processing</li>
+        <li>Dual storage (SQL & NoSQL)</li>
+      </ul>
+      <p><b>🛠 Stack:</b> Kafka, PySpark, PostgreSQL, Grafana</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🏗️ <a href="https://github.com/vaibhavshiroorkar?tab=repositories">FastAPI Boilerplate</a></h3>
+      <p>Production-ready template with authentication and database migrations.</p>
+      <ul>
+        <li>JWT Auth & Role-based access</li>
+        <li>Async SQLAlchemy with PostgreSQL</li>
+        <li>Redis caching & Celery task queue</li>
+      </ul>
+      <p><b>🛠 Stack:</b> FastAPI, Postgres, Redis, Docker</p>
+    </td>
+  </tr>
+</table>
 
-### 🤖 [MLOps Pipeline Framework](https://github.com/vaibhavshiroorkar?tab=repositories)
-End-to-end ML pipeline with automated training, evaluation, and deployment
-- Automated model versioning & experiment tracking
-- CI/CD integration for model deployment
-- Performance monitoring & drift detection
-- Scalable inference API with FastAPI
-
-### 🧠 [RAG System with LangChain](https://github.com/vaibhavshiroorkar?tab=repositories)
-Document Q&A system using retrieval-augmented generation
-- Vector embeddings with ChromaDB
-- Multi-document ingestion pipeline
-- Context-aware response generation
-- Streaming responses with FastAPI
-
-### 📊 [Real-time Data Processing Pipeline](https://github.com/vaibhavshiroorkar?tab=repositories)
-Scalable ETL pipeline for processing streaming data
-- Apache Kafka for event streaming
-- PySpark for distributed processing
-- PostgreSQL & MongoDB dual storage
-- Grafana dashboards for monitoring
-- 
 ---
 
-## 📊 Stats
+## 📊 Activity & Progress
 
 <div align="center">
-
-### GitHub Activity
-  
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhavshiroorkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavshiroorkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavshiroorkar&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-
-### LeetCode Progress
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/vaibhavshiroorkar?theme=dark&font=Noto%20Sans&ext=heatmap)
-
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=vaibhavshiroorkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavshiroorkar&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavshiroorkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://leetcard.jacoblin.cool/vaibhavshiroorkar?theme=dark&font=Noto%20Sans" width="100%" />
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
@@ -128,9 +152,10 @@ Open to discussing ML engineering, system design, or collaboration opportunities
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavshiroorkar/)
 [![Email](https://img.shields.io/badge/Email-Drop%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shiroorkarvaibhav@gmail.com)
 [![Portfolio](https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavshiroorkar?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=vaibhavshiroorkar&color=58A6FF&style=for-the-badge)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=vaibhavshiroorkar&color=58A6FF&style=for-the-badge)
+
 
 </div>
