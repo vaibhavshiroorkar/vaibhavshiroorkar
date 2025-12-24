@@ -1,15 +1,17 @@
-<!-- <div align="center">
+<div align="center">
   
 # 🚀 Vaibhav Shiroorkar
 
-### AI/ML Engineer • Backend Developer • System Designer
+### AI/ML Engineer • Backend Developer • MLOps Engineer
 
 *Engineering intelligent systems from concept to production*
 
 [![LinkedIn](https://img.shields.io/badge/-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavshiroorkar/)
 [![Email](https://img.shields.io/badge/-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shiroorkarvaibhav@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zvaibhavz/)
-[![GitHub](https://img.shields.io/badge/-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavshiroorkar?tab=repositories)
+[![X](https://img.shields.io/badge/-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vaibhavshiroorkar)
+[![YouTube](https://img.shields.io/badge/-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@vaibhavshiroorkar)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vaibhavshiroorkar)
 
 </div>
 
@@ -17,10 +19,77 @@
 
 ## 💡 About Me
 
-Hi, I am Vaibhav Shiroorkar, a 20-year-old AI/ML engineer from India. I like building AI systems that actually work in production. I focus on the entire stack—from data pipelines to model deployment—because machine learning without solid engineering is just expensive experimentation.
+<p>I am a 20-year-old AI & ML Engineer based in India, dedicated to bridging the gap between theoretical research and scalable software.</p>
+<p>My focus isn't just on accuracy metrics, but on latency, throughput, and system reliability.</p>
+
 
 ---
+<!--
+## 🛠️ Featured Engineering Projects
 
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🏭 <a href="https://github.com/vaibhavshiroorkar/REPO_NAME_HERE">MetricFlow: Telemetry Infra</a></h3>
+      <p><b>Production-grade ingestion system for industrial sensor data.</b></p>
+      <p>Designed to handle high-velocity logs with strict data validation before storage.</p>
+      <ul>
+        <li><b>DB Optimization:</b> PostgreSQL schema optimized with B-Tree indexing.</li>
+        <li><b>Architecture:</b> FastAPI with Pydantic data contracts.</li>
+        <li><b>DevOps:</b> Automated CI/CD pipelines & Docker healthchecks.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🔮 <a href="https://github.com/vaibhavshiroorkar/REPO_NAME_HERE">FailureGuard: MLOps Engine</a></h3>
+      <p><b>End-to-end predictive maintenance system.</b></p>
+      <p>Full lifecycle management from raw SQL logs to a deployed inference API.</p>
+      <ul>
+        <li><b>Modeling:</b> XGBoost model detecting equipment failure.</li>
+        <li><b>Ops:</b> Experiment tracking via MLflow & drift detection.</li>
+        <li><b>Deployment:</b> Containerized inference API on AWS App Runner.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/XGBoost-111111?style=flat-square&logo=xgboost&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🧠 <a href="https://github.com/vaibhavshiroorkar/REPO_NAME_HERE">Nexus: Agentic AI Manager</a></h3>
+      <p><b>"Smart Manager" coordinating SQL DB & Technical Manuals.</b></p>
+      <p>An autonomous agent that decides when to query the DB vs. reading manuals.</p>
+      <ul>
+        <li><b>Agentic Logic:</b> ReAct pattern (Thought → Action → Observation).</li>
+        <li><b>RAG:</b> Vector search over PDF manuals using Pinecone.</li>
+        <li><b>UI:</b> Interactive Streamlit dashboard with streaming tokens.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">📂 <a href="https://github.com/vaibhavshiroorkar?tab=repositories">More Repositories...</a></h3>
+      <br>
+      <p>Explore my other engineering experiments, data structure implementations, and open source contributions.</p>
+      <br>
+      <a href="https://github.com/vaibhavshiroorkar?tab=repositories">
+        <img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+-->
 ## 🛠️ Technology Stack
 
 <div align="center">
@@ -37,9 +106,9 @@ Hi, I am Vaibhav Shiroorkar, a 20-year-old AI/ML engineer from India. I like bui
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 **ML & AI**
 
@@ -47,112 +116,88 @@ Hi, I am Vaibhav Shiroorkar, a 20-year-old AI/ML engineer from India. I like bui
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=huggingface&logoColor=black)
 
 **Infrastructure & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
 
 ---
-
+<!--
 ## 🚀 Featured Projects
 
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🤖 <a href="https://github.com/vaibhavshiroorkar?tab=repositories">MLOps Pipeline Framework</a></h3>
-      <p>End-to-end ML pipeline with automated training, evaluation, and deployment.</p>
+      <h3 align="left">🏭 <a href="#">MetricFlow: Telemetry Infra</a></h3>
+      <p><b>(Phase 1)</b> Production-grade ingestion system for industrial sensor logs.</p>
       <ul>
-        <li>Automated model versioning & tracking</li>
-        <li>CI/CD for model deployment</li>
-        <li>Performance monitoring & drift detection</li>
+        <li>Optimized PostgreSQL schema with B-Tree Indexing</li>
+        <li>FastAPI with Alembic migrations & Pydantic contracts</li>
+        <li>Dockerized environment with CI/CD pipelines</li>
       </ul>
-      <p><b>🛠 Stack:</b> PyTorch, FastAPI, Docker, MLflow</p>
+      <p><b>🛠 Stack:</b> FastAPI, Postgres, Docker, GitHub Actions</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">🧠 <a href="https://github.com/vaibhavshiroorkar?tab=repositories">RAG System with LangChain</a></h3>
-      <p>Document Q&A system using retrieval-augmented generation for complex datasets.</p>
+      <h3 align="left">🔮 <a href="#">FailureGuard: MLOps Engine</a></h3>
+      <p><b>(Phase 2)</b> End-to-end ML system predicting equipment failure.</p>
       <ul>
-        <li>Vector embeddings with ChromaDB</li>
-        <li>Multi-document ingestion pipeline</li>
-        <li>Context-aware streaming responses</li>
+        <li>Experiment tracking via MLFlow (XGBoost vs RF)</li>
+        <li>Production inference API deployed on AWS App Runner</li>
+        <li>Strict data leakage checks & input sanitization</li>
       </ul>
-      <p><b>🛠 Stack:</b> LangChain, ChromaDB, OpenAI, FastAPI</p>
+      <p><b>🛠 Stack:</b> XGBoost, MLFlow, AWS, ONNX</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">📊 <a href="https://github.com/vaibhavshiroorkar?tab=repositories">Real-time Data Pipeline</a></h3>
-      <p>Scalable ETL pipeline designed for processing high-velocity streaming data.</p>
+      <h3 align="left">🤖 <a href="#">Nexus: Agentic AI Manager</a></h3>
+      <p><b>(Phase 3)</b> "Smart Manager" coordinating SQL DB & Technical Manuals.</p>
       <ul>
-        <li>Apache Kafka for event streaming</li>
-        <li>PySpark for distributed processing</li>
-        <li>Dual storage (SQL & NoSQL)</li>
+        <li>ReAct Agent using SQL Tools & Vector Search (RAG)</li>
+        <li>Streamlit UI with streaming tokens & callbacks</li>
+        <li>Evaluation suite using RAGAS metrics</li>
       </ul>
-      <p><b>🛠 Stack:</b> Kafka, PySpark, PostgreSQL, Grafana</p>
+      <p><b>🛠 Stack:</b> LangChain, Pinecone, Streamlit, OpenAI</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">🏗️ <a href="https://github.com/vaibhavshiroorkar?tab=repositories">FastAPI Boilerplate</a></h3>
-      <p>Production-ready template with authentication and database migrations.</p>
+      <h3 align="left">📂 <a href="https://github.com/vaibhavshiroorkar?tab=repositories">More Repositories...</a></h3>
+      <p>Explore my other engineering experiments and open source work.</p>
       <ul>
-        <li>JWT Auth & Role-based access</li>
-        <li>Async SQLAlchemy with PostgreSQL</li>
-        <li>Redis caching & Celery task queue</li>
+        <li>Real-time Data Pipelines</li>
+        <li>Distributed Systems</li>
+        <li>DSA & LeetCode Solutions</li>
       </ul>
-      <p><b>🛠 Stack:</b> FastAPI, Postgres, Redis, Docker</p>
+      <p><b>👉 Click to view all repositories</b></p>
     </td>
   </tr>
 </table>
 
 ---
-
+-->
 ## 📊 Activity & Progress
 
 <div align="center">
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=vaibhavshiroorkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://leetcard.jacoblin.cool/vaibhavshiroorkar?theme=dark&font=Noto%20Sans" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavshiroorkar&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavshiroorkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="100%" />
-    </td>
-  </tr>
-</table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavshiroorkar&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="195" alt="GitHub Streak" />
+  <img src="https://leetcard.jacoblin.cool/vaibhavshiroorkar?theme=dark&font=Noto%20Sans" height="195" alt="LeetCode Stats" />
 </div>
 
 ---
 
-
-
 <div align="center">
-
 
 [![Portfolio](https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavshiroorkar?tab=repositories)
 ![Profile Views](https://komarev.com/ghpvc/?username=vaibhavshiroorkar&color=58A6FF&style=for-the-badge)
-
----
-
-
 
 </div>
