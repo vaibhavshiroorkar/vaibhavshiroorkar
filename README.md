@@ -22,79 +22,8 @@
 <p>I am a 20-year-old Engineer based in Mumbai, India. I am dedicated to bridging the gap between theoretical research and scalable software.</p>
 <p>My focus isn't just on accuracy metrics, but on latency, throughput, and system reliability.</p>
 
-
----
-
-## 🚧 Engineering Roadmap (Currently Building)
-
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🏭 MetricFlow: Telemetry Infra</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" />
-      </p>
-      <p><b>Building a production-grade ingestion system for industrial sensor data.</b></p>
-      <ul>
-        <li><b>Goal:</b> Handle high-velocity logs with strict Pydantic validation.</li>
-        <li><b>Learning:</b> Advanced PostgreSQL indexing & Alembic migrations.</li>
-        <li><b>Stack:</b> FastAPI, Docker, PostgreSQL.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">🔮 FailureGuard: MLOps Engine</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Designing%20Architecture-blueviolet?style=flat-square" />
-      </p>
-      <p><b>Architecting an end-to-end predictive maintenance system.</b></p>
-      <ul>
-        <li><b>Goal:</b> Automate the lifecycle from raw SQL logs to inference.</li>
-        <li><b>Learning:</b> MLflow for experiment tracking & Drift detection.</li>
-        <li><b>Stack:</b> XGBoost, AWS App Runner, MLflow.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/XGBoost-111111?style=flat-square&logo=xgboost&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🧠 Nexus: Agentic AI Manager</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Research%20Phase-yellow?style=flat-square" />
-      </p>
-      <p><b>Designing a "Smart Manager" to coordinate SQL DB & Manuals.</b></p>
-      <ul>
-        <li><b>Goal:</b> Implement ReAct pattern for autonomous decision making.</li>
-        <li><b>Learning:</b> Vector Search (RAG) & LangChain agents.</li>
-        <li><b>Stack:</b> LangChain, OpenAI, Pinecone.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">📂 <a href="https://github.com/vaibhavshiroorkar?tab=repositories">Current Practice</a></h3>
-      <br>
-      <p>While I build these systems, check out smaller projects.</p>
-      <br>
-      <a href="https://github.com/vaibhavshiroorkar?tab=repositories">
-        <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 <!--
+---
 ## 🛠️ Featured Engineering Projects
 
 <table border="0">
@@ -202,6 +131,77 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
+
+---
+
+## 🚧 Engineering Roadmap (Currently Building)
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🏭 MetricFlow: Telemetry Infra</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" />
+      </p>
+      <p><b>Building a production-grade ingestion system for industrial sensor data.</b></p>
+      <ul>
+        <li><b>Goal:</b> Handle high-velocity logs with strict Pydantic validation.</li>
+        <li><b>Learning:</b> Advanced PostgreSQL indexing & Alembic migrations.</li>
+        <li><b>Stack:</b> FastAPI, Docker, PostgreSQL.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🔮 FailureGuard: MLOps Engine</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Designing%20Architecture-blueviolet?style=flat-square" />
+      </p>
+      <p><b>Architecting an end-to-end predictive maintenance system.</b></p>
+      <ul>
+        <li><b>Goal:</b> Automate the lifecycle from raw SQL logs to inference.</li>
+        <li><b>Learning:</b> MLflow for experiment tracking & Drift detection.</li>
+        <li><b>Stack:</b> XGBoost, AWS App Runner, MLflow.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/XGBoost-111111?style=flat-square&logo=xgboost&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🧠 Nexus: Agentic AI Manager</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Research%20Phase-yellow?style=flat-square" />
+      </p>
+      <p><b>Designing a "Smart Manager" to coordinate SQL DB & Manuals.</b></p>
+      <ul>
+        <li><b>Goal:</b> Implement ReAct pattern for autonomous decision making.</li>
+        <li><b>Learning:</b> Vector Search (RAG) & LangChain agents.</li>
+        <li><b>Stack:</b> LangChain, OpenAI, Pinecone.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">📂 <a href="https://github.com/vaibhavshiroorkar?tab=repositories">Current Practice</a></h3>
+      <br>
+      <p>While I build these systems, check out smaller projects.</p>
+      <br>
+      <a href="https://github.com/vaibhavshiroorkar?tab=repositories">
+        <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
