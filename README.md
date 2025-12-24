@@ -2,8 +2,7 @@
   
 # 🚀 Vaibhav Shiroorkar
 
-<!--### AI/ML Engineer • Backend Developer • MLOps Engineer-->
-### Software Engineer 
+### AI/ML Engineer • Backend Developer • MLOps Engineer
 
 *Engineering intelligent systems from concept to production*
 
