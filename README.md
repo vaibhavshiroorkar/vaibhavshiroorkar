@@ -2,7 +2,8 @@
   
 # 🚀 Vaibhav Shiroorkar
 
-### AI/ML Engineer • Backend Developer • MLOps Engineer
+<!--### AI/ML Engineer • Backend Developer • MLOps Engineer-->
+### Software Engineer 
 
 *Engineering intelligent systems from concept to production*
 
@@ -16,15 +17,15 @@
 </div>
 
 ---
-
+<!--
 ## 💡 About Me
 
-<p>I am a 20-year-old AI & ML Engineer based in India, dedicated to bridging the gap between theoretical research and scalable software.</p>
+<p>I am a 20-year-old Engineer based in Mumbai, India. I am dedicated to bridging the gap between theoretical research and scalable software.</p>
 <p>My focus isn't just on accuracy metrics, but on latency, throughput, and system reliability.</p>
 
 
 ---
-<!--
+
 ## 🛠️ Featured Engineering Projects
 
 <table border="0">
