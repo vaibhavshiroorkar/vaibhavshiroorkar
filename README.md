@@ -88,7 +88,7 @@ I'm passionate about the full ML lifecycle—from backend infrastructure to MLOp
       <p>
         <img src="https://img.shields.io/badge/Status-Designing-blueviolet?style=flat-square" />
       </p>
-      <p><b>Predictive maintenance engine for anomaly detection.</b></p>
+      <p><b>Predictive maintenance for anomaly detection.</b></p>
       <ul>
         <li><b>Focus:</b> Deep Learning, MLOps, Model Serving.</li>
         <li><b>Tech:</b> PyTorch, MLflow, AWS App Runner.</li>
