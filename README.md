@@ -19,8 +19,7 @@
 
 Hey! I'm Vaibhav, an AI/ML engineer focused on building generative AI systems and solving real-world problems through code.
 
-I'm passionate about the full ML lifecycle—from backend infrastructure to MLOps pipelines to production deployment.
-
+My background is in systems and electronics, so I’m comfortable with hardware signals, constraints, and real-world data. I moved into software and ML to build intelligent systems on top of that.
 ---
 
 ## 🛠️ Technology Stack
