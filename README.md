@@ -60,90 +60,86 @@ I'm passionate about the full ML lifecycle—from backend infrastructure to MLOp
 ---
 
 ## 🚧 Engineering Roadmap & Projects
-<div align="center">
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">
-        <a href="https://github.com/vaibhavshiroorkar/industria-core">🏭 Industria Core</a>
-      </h3>
-      <p>
-        <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" />
-      </p>
-      <p><b>High-throughput telemetry ingestion infrastructure.</b></p>
-      <ul>
-        <li><b>Focus:</b> Backend, Data Engineering, Optimization.</li>
-        <li><b>Tech:</b> FastAPI, PostgreSQL (Time-Series), Docker.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">
-        <a href="https://github.com/vaibhavshiroorkar/industria-predict">🔮 Industria Predict</a>
-      </h3>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Designing-blueviolet?style=flat-square" />
-      </p>
-      <p><b>Predictive maintenance for anomaly detection.</b></p>
-      <ul>
-        <li><b>Focus:</b> Deep Learning, MLOps, Model Serving.</li>
-        <li><b>Tech:</b> PyTorch, MLflow, AWS App Runner.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td colspan="2"><br></td>
-  </tr>
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">
-        <a href="https://github.com/vaibhavshiroorkar/industria-agent">🧠 Industria Agent</a>
-      </h3>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Research-yellow?style=flat-square" />
-      </p>
-      <p><b>Autonomous reasoning agent for industrial diagnostics.</b></p>
-      <ul>
-        <li><b>Focus:</b> RAG, Vector Search, LLM Integration.</li>
-        <li><b>Tech:</b> LangChain, OpenAI, Pinecone, Streamlit.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">
-        <a href="https://github.com/vaibhavshiroorkar/disease-prediction-system">🩺 Disease Prediction</a>
-      </h3>
-      <p>
-        <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" />
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="left">
+          <a href="https://github.com/vaibhavshiroorkar/industria-core">🏭 Industria Core</a>
+        </h3>
+        <p align="left">
+          <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" alt="Status" />
         </p>
-      <p><b>Symptom-based disease classification system.</b></p>
-      <ul>
-        <li><b>Focus:</b> Supervised Learning, Real-time Inference.</li>
-        <li><b>Tech:</b> Scikit-Learn, FastAPI, Interactive UI.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
+        <p align="left"><b>High-throughput telemetry ingestion infrastructure.</b></p>
+        <ul align="left">
+          <li><b>Focus:</b> Backend, Data Engineering, Optimization.</li>
+          <li><b>Tech:</b> FastAPI, PostgreSQL (Time-Series), Docker.</li>
+        </ul>
+        <p align="left">
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="left">
+          <a href="https://github.com/vaibhavshiroorkar/industria-predict">🔮 Industria Predict</a>
+        </h3>
+        <p align="left">
+          <img src="https://img.shields.io/badge/Status-Designing-blueviolet?style=flat-square" alt="Status" />
+        </p>
+        <p align="left"><b>Predictive maintenance for anomaly detection.</b></p>
+        <ul align="left">
+          <li><b>Focus:</b> Deep Learning, MLOps, Model Serving.</li>
+          <li><b>Tech:</b> PyTorch, MLflow, AWS App Runner.</li>
+        </ul>
+        <p align="left">
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+          <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+          <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="left">
+          <a href="https://github.com/vaibhavshiroorkar/industria-agent">🧠 Industria Agent</a>
+        </h3>
+        <p align="left">
+          <img src="https://img.shields.io/badge/Status-Research-yellow?style=flat-square" alt="Status" />
+        </p>
+        <p align="left"><b>Autonomous reasoning agent for industrial diagnostics.</b></p>
+        <ul align="left">
+          <li><b>Focus:</b> RAG, Vector Search, LLM Integration.</li>
+          <li><b>Tech:</b> LangChain, OpenAI, Pinecone, Streamlit.</li>
+        </ul>
+        <p align="left">
+          <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="left">
+          <a href="https://github.com/vaibhavshiroorkar/disease-prediction-system">🩺 Disease Prediction</a>
+        </h3>
+        <p align="left">
+          <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" alt="Status" />
+        </p>
+        <p align="left"><b>Symptom-based disease classification system.</b></p>
+        <ul align="left">
+          <li><b>Focus:</b> Supervised Learning, Real-time Inference.</li>
+          <li><b>Tech:</b> Scikit-Learn, FastAPI, Interactive UI.</li>
+        </ul>
+        <p align="left">
+          <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
