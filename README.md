@@ -17,9 +17,12 @@
 
 ## 💡 About Me
 
-Hey! I'm Vaibhav, an AI/ML engineer focused on building generative AI systems and solving real-world problems through code.
+Hey, I’m Vaibhav.
+I build production-oriented generative AI systems that solve real-world problems, not just demos.
 
-My background is in systems and electronics, so I’m comfortable with hardware signals, constraints, and real-world data. I moved into software and ML to build intelligent systems on top of that.
+I come from a systems and electronics background, so I’m used to thinking in terms of constraints, failure modes, and real-world signals. 
+
+I moved into software engineering and machine learning to design intelligent systems that sit on top of complex data pipelines—combining backend engineering, ML, and LLMs into reliable products.
 
 ---
 
