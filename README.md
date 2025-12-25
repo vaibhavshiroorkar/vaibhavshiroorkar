@@ -72,7 +72,7 @@ I'm passionate about the full ML lifecycle—from backend infrastructure to MLOp
       </p>
       <p><b>High-throughput telemetry ingestion infrastructure.</b></p>
       <ul>
-        <li><b>Focus:</b> Backend, Data Engineering, SQL Optimization.</li>
+        <li><b>Focus:</b> Backend, Data Engineering, Optimization.</li>
         <li><b>Tech:</b> FastAPI, PostgreSQL (Time-Series), Docker.</li>
       </ul>
       <p>
@@ -113,7 +113,7 @@ I'm passionate about the full ML lifecycle—from backend infrastructure to MLOp
       <p>
         <img src="https://img.shields.io/badge/Status-Research-yellow?style=flat-square" />
       </p>
-      <p><b>Autonomous reasoning agent for industrial diagnostics.</b></p>
+      <p><b>Autonomous reasoning agent for diagnostics.</b></p>
       <ul>
         <li><b>Focus:</b> RAG, Vector Search, LLM Integration.</li>
         <li><b>Tech:</b> LangChain, OpenAI, Pinecone, Streamlit.</li>
