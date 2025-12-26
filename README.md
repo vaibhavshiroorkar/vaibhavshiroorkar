@@ -149,9 +149,12 @@ I moved into software engineering and machine learning to design intelligent sys
 ## 📊 Activity & Progress
 
 <div align="center">
-  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavshiroorkar&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="160" alt="GitHub Streak" />-->
   <img src="https://leetcard.jacoblin.cool/vaibhavshiroorkar?theme=dark&font=Noto%20Sans" height="160" alt="LeetCode Stats" />
+  <br/>
+  <img src="https://www.codewars.com/users/vaibhavshiroorkar/badges/large" alt="Codewars Stats" />
 </div>
+
+
 
 ---
 
