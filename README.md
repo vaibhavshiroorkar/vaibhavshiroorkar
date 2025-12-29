@@ -17,11 +17,11 @@
 
 ## 💡 About Me
 
-Hey, I’m Vaibhav. 
+Hey, I’m **Vaibhav**. 
 
-I come from a systems and electronics background, where I learned to think in terms of real-world signals, constraints, and reliability.
+I come from a systems and electronics background, where I learned to think in terms of real-world signals, constraints, and reliability. 
 
-I transitioned into software engineering to design intelligent systems that sit on top of complex data and operate reliably at scale.
+I transitioned into software engineering to design intelligent systems that sit on top of complex data and operate [**reliably at scale**](https://github.com/vaibhavshiroorkar/ledger-core).
 
 ---
 
@@ -78,100 +78,124 @@ I transitioned into software engineering to design intelligent systems that sit 
 ## 🚧 Engineering Roadmap & Projects
 
 <div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="left">
-          <a href="https://github.com/vaibhavshiroorkar/ledger-core">💰 Ledger Core</a>
-        </h3>
-        <p align="left">
-          <img src="https://img.shields.io/badge/Status-Phase%201%20Complete-green?style=flat-square" alt="Status" />
-        </p>
-        <p align="left"><b>High-throughput financial ledger with strict ACID compliance.</b></p>
-        <ul align="left">
-          <li><b>Language:</b> Python (FastAPI)</li>
-          <li><b>Focus:</b> Distributed Transactions, Idempotency, API Security.</li>
-          <li><b>Infrastructure:</b> PostgreSQL, Docker, SQLAlchemy.</li>
-        </ul>
-        <p align="left">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        </p>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="left">
-          <a href="https://github.com/vaibhavshiroorkar/sentinel-stream">📡 Sentinel Stream</a>
-        </h3>
-        <p align="left">
-          <img src="https://img.shields.io/badge/Status-Phase%202%20Active-blue?style=flat-square" alt="Status" />
-        </p>
-        <p align="left"><b>Scalable market sentiment data lake and real-time pipeline.</b></p>
-        <ul align="left">
-          <li><b>Language:</b> Python (Polars/SQL)</li>
-          <li><b>Focus:</b> Data Orchestration, Message Queues, Stream Processing.</li>
-          <li><b>Stack:</b> Kafka, Apache Airflow, AWS S3, Redis.</li>
-        </ul>
-        <p align="left">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="left">
-          <a href="https://github.com/vaibhavshiroorkar/ledger-enterprise">🏛️ Ledger Enterprise</a>
-        </h3>
-        <p align="left">
-          <img src="https://img.shields.io/badge/Status-Side%20Phase-orange?style=flat-square" alt="Status" />
-        </p>
-        <p align="left"><b>Java Spring Boot refactor of Ledger Core for Banking Standards.</b></p>
-        <ul align="left">
-          <li><b>Language:</b> Java (Spring Boot)</li>
-          <li><b>Focus:</b> Microservices, Spring Security, SAGA Pattern.</li>
-          <li><b>Infrastructure:</b> Hibernate, Maven, JUnit.</li>
-        </ul>
-        <p align="left">
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-          <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-          <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
-        </p>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="left">
-          <a href="https://github.com/vaibhavshiroorkar/vision-verify">👁️ Vision Verify</a>
-        </h3>
-        <p align="left">
-          <img src="https://img.shields.io/badge/Status-Researching-yellow?style=flat-square" alt="Status" />
-        </p>
-        <p align="left"><b>Deepfake Detection System using CNN-LSTM Architecture.</b></p>
-        <ul align="left">
-          <li><b>Language:</b> Python (PyTorch)</li>
-          <li><b>Focus:</b> Computer Vision, Temporal Anomaly, Model Serving.</li>
-          <li><b>Stack:</b> OpenCV, Scikit-Learn, Streamlit.</li>
-        </ul>
-        <p align="left">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-        </p>
-      </td>
-    </tr>
-  </table>
+
+<table width="100%" cellpadding="10">
+  <tr>
+    <td width="50%" valign="top">
+
+<h3>💰 Ledger Core</h3>
+
+<p align="left">
+High-throughput financial engine with strict <b>ACID compliance</b>,
+<b>idempotency layers</b>, and secure <b>JWT authentication</b>.
+</p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://github.com/vaibhavshiroorkar/ledger-core">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📡 Sentinel Stream</h3>
+
+<p align="left">
+Scalable market sentiment data lake. Orchestrates real-time ingestion from
+<b>Kafka → S3</b> using <b>Airflow DAGs</b>.
+</p>
+
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://github.com/vaibhavshiroorkar/sentinel-stream">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+<h3>🏛️ Ledger Enterprise</h3>
+
+<p align="left">
+Java Spring Boot refactor of the core ledger.
+Implements the <b>SAGA pattern</b> for distributed transaction reliability.
+</p>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://github.com/vaibhavshiroorkar/ledger-enterprise">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>👁️ Vision Verify</h3>
+
+<p align="left">
+Deepfake detection system using <b>CNN-LSTM</b> architecture
+to identify spatial and temporal facial anomalies.
+</p>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=googlecloud&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://github.com/vaibhavshiroorkar/vision-verify">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+  </tr>
+</table>
+
 </div>
-<!--
+
+
+---
+
+## 📊 Activity & Progress
+
 ---
 
 ## 📊 Activity & Progress
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/vaibhavshiroorkar?theme=dark&font=Noto%20Sans" height="160" alt="LeetCode Stats" />
-  <br/>
-  <img src="https://www.codewars.com/users/vaibhavshiroorkar/badges/large" alt="Codewars Stats" />
+  <table border="0">
+    <tr>
+      <td valign="center">
+        <a href="https://leetcode.com/vaibhavshiroorkar">
+          <img src="https://leetcard.jacoblin.cool/vaibhavshiroorkar?theme=dark&font=Noto%20Sans" height="185" alt="LeetCode Stats" />
+        </a>
+      </td>
+      <td valign="center">
+        <a href="https://codeforces.com/profile/vaibhavshiroorkar">
+          <img src="https://codeforces-readme-stats.vercel.app/api/card?username=vaibhavshiroorkar&theme=dark" height="185" alt="Codeforces Stats" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
--->
 
 ---
 
