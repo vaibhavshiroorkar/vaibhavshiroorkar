@@ -2,7 +2,7 @@
   
 # 🚀 Vaibhav Shiroorkar
 
-### AI/ML Engineer • Backend Software Engineer • MLOps Engineer
+###  • Software Engineer •
 
 *Engineering intelligent systems from concept to production*
 
@@ -75,76 +75,80 @@ I transitioned into software engineering to design intelligent systems that sit 
     <tr>
       <td width="50%" valign="top">
         <h3 align="left">
-          <a href="https://github.com/vaibhavshiroorkar/industria-core">🏭 Industria Core</a>
+          <a href="https://github.com/yourusername/ledger-core">💰 Ledger Core</a>
         </h3>
         <p align="left">
-          <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" alt="Status" />
+          <img src="https://img.shields.io/badge/Status-Phase%201%20Complete-green?style=flat-square" alt="Status" />
         </p>
-        <p align="left"><b>High-throughput telemetry ingestion infrastructure.</b></p>
+        <p align="left"><b>High-throughput financial ledger with strict ACID compliance.</b></p>
         <ul align="left">
-          <li><b>Focus:</b> Backend, Data Engineering, Optimization.</li>
-          <li><b>Tech:</b> FastAPI, PostgreSQL (Time-Series), Docker.</li>
+          <li><b>Language:</b> Python (FastAPI)</li>
+          <li><b>Focus:</b> Distributed Transactions, Idempotency, API Security.</li>
+          <li><b>Infrastructure:</b> PostgreSQL, Docker, SQLAlchemy.</li>
         </ul>
         <p align="left">
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         </p>
       </td>
       <td width="50%" valign="top">
         <h3 align="left">
-          <a href="https://github.com/vaibhavshiroorkar/industria-predict">🔮 Industria Predict</a>
+          <a href="https://github.com/yourusername/sentinel-stream">📡 Sentinel Stream</a>
         </h3>
         <p align="left">
-          <img src="https://img.shields.io/badge/Status-Designing-blueviolet?style=flat-square" alt="Status" />
+          <img src="https://img.shields.io/badge/Status-Phase%202%20Active-blue?style=flat-square" alt="Status" />
         </p>
-        <p align="left"><b>Predictive maintenance for anomaly detection.</b></p>
+        <p align="left"><b>Scalable market sentiment data lake and real-time pipeline.</b></p>
         <ul align="left">
-          <li><b>Focus:</b> Deep Learning, MLOps, Model Serving.</li>
-          <li><b>Tech:</b> PyTorch, MLflow, AWS App Runner.</li>
+          <li><b>Language:</b> Python (Polars/SQL)</li>
+          <li><b>Focus:</b> Data Orchestration, Message Queues, Stream Processing.</li>
+          <li><b>Stack:</b> Kafka, Apache Airflow, AWS S3, Redis.</li>
         </ul>
         <p align="left">
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-          <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-          <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
         </p>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
         <h3 align="left">
-          <a href="https://github.com/vaibhavshiroorkar/industria-agent">🧠 Industria Agent</a>
+          <a href="https://github.com/yourusername/ledger-enterprise">🏛️ Ledger Enterprise</a>
         </h3>
         <p align="left">
-          <img src="https://img.shields.io/badge/Status-Research-yellow?style=flat-square" alt="Status" />
+          <img src="https://img.shields.io/badge/Status-Side%20Phase-orange?style=flat-square" alt="Status" />
         </p>
-        <p align="left"><b>Autonomous reasoning agent for industrial diagnostics.</b></p>
+        <p align="left"><b>Java Spring Boot refactor of Ledger Core for Banking Standards.</b></p>
         <ul align="left">
-          <li><b>Focus:</b> RAG, Vector Search, LLM Integration.</li>
-          <li><b>Tech:</b> LangChain, OpenAI, Pinecone, Streamlit.</li>
+          <li><b>Language:</b> Java (Spring Boot)</li>
+          <li><b>Focus:</b> Microservices, Spring Security, SAGA Pattern.</li>
+          <li><b>Infrastructure:</b> Hibernate, Maven, JUnit.</li>
         </ul>
         <p align="left">
-          <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+          <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+          <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
         </p>
       </td>
       <td width="50%" valign="top">
         <h3 align="left">
-          <a href="https://github.com/vaibhavshiroorkar/disease-prediction-system">🩺 Disease Prediction</a>
+          <a href="https://github.com/yourusername/vision-verify">👁️ Vision Verify</a>
         </h3>
         <p align="left">
-          <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" alt="Status" />
+          <img src="https://img.shields.io/badge/Status-Researching-yellow?style=flat-square" alt="Status" />
         </p>
-        <p align="left"><b>Symptom-based disease classification system.</b></p>
+        <p align="left"><b>Deepfake Detection System using CNN-LSTM Architecture.</b></p>
         <ul align="left">
-          <li><b>Focus:</b> Supervised Learning, Real-time Inference.</li>
-          <li><b>Tech:</b> Scikit-Learn, FastAPI, Interactive UI.</li>
+          <li><b>Language:</b> Python (PyTorch)</li>
+          <li><b>Focus:</b> Computer Vision, Temporal Anomaly, Model Serving.</li>
+          <li><b>Stack:</b> OpenCV, Scikit-Learn, Streamlit.</li>
         </ul>
         <p align="left">
-          <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
         </p>
       </td>
     </tr>
