@@ -82,7 +82,7 @@ I transitioned into software engineering to design intelligent systems that sit 
     <tr>
       <td width="50%" valign="top">
         <h3 align="left">
-          <a href="https://github.com/yourusername/ledger-core">💰 Ledger Core</a>
+          <a href="https://github.com/vaibhavshiroorkar/ledger-core">💰 Ledger Core</a>
         </h3>
         <p align="left">
           <img src="https://img.shields.io/badge/Status-Phase%201%20Complete-green?style=flat-square" alt="Status" />
@@ -101,7 +101,7 @@ I transitioned into software engineering to design intelligent systems that sit 
       </td>
       <td width="50%" valign="top">
         <h3 align="left">
-          <a href="https://github.com/yourusername/sentinel-stream">📡 Sentinel Stream</a>
+          <a href="https://github.com/vaibhavshiroorkar/sentinel-stream">📡 Sentinel Stream</a>
         </h3>
         <p align="left">
           <img src="https://img.shields.io/badge/Status-Phase%202%20Active-blue?style=flat-square" alt="Status" />
@@ -122,7 +122,7 @@ I transitioned into software engineering to design intelligent systems that sit 
     <tr>
       <td width="50%" valign="top">
         <h3 align="left">
-          <a href="https://github.com/yourusername/ledger-enterprise">🏛️ Ledger Enterprise</a>
+          <a href="https://github.com/vaibhavshiroorkar/ledger-enterprise">🏛️ Ledger Enterprise</a>
         </h3>
         <p align="left">
           <img src="https://img.shields.io/badge/Status-Side%20Phase-orange?style=flat-square" alt="Status" />
@@ -141,7 +141,7 @@ I transitioned into software engineering to design intelligent systems that sit 
       </td>
       <td width="50%" valign="top">
         <h3 align="left">
-          <a href="https://github.com/yourusername/vision-verify">👁️ Vision Verify</a>
+          <a href="https://github.com/vaibhavshiroorkar/vision-verify">👁️ Vision Verify</a>
         </h3>
         <p align="left">
           <img src="https://img.shields.io/badge/Status-Researching-yellow?style=flat-square" alt="Status" />
