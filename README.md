@@ -171,30 +171,18 @@ to identify spatial and temporal facial anomalies.
 
 </div>
 
-
----
-
-## 📊 Activity & Progress
-
 ---
 
 ## 📊 Activity & Progress
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td valign="center">
-        <a href="https://leetcode.com/vaibhavshiroorkar">
-          <img src="https://leetcard.jacoblin.cool/vaibhavshiroorkar?theme=dark&font=Noto%20Sans" height="185" alt="LeetCode Stats" />
-        </a>
-      </td>
-      <td valign="center">
-        <a href="https://codeforces.com/profile/vaibhavshiroorkar">
-          <img src="https://codeforces-readme-stats.vercel.app/api/card?username=vaibhavshiroorkar&theme=dark" height="185" alt="Codeforces Stats" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://leetcode.com/vaibhavshiroorkar">
+    <img src="https://leetcard.jacoblin.cool/vaibhavshiroorkar?theme=dark&font=Noto%20Sans" height="185" alt="LeetCode Stats" />
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/vaibhavshiroorkar">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=vaibhavshiroorkar&theme=dark" height="185" alt="Codeforces Stats" />
+  </a>
 </div>
 
 ---
