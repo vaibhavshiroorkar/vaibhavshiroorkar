@@ -2,7 +2,7 @@
   
 # 🚀 Vaibhav Shiroorkar
 
-###  • Software Engineer •
+###  AI Engineer • MLOps Engineer • Software Engineer
 
 *Engineering intelligent systems from concept to production*
 
@@ -148,7 +148,7 @@ Implements the <b>SAGA pattern</b> for distributed transaction reliability.
 
 <td width="50%" valign="top">
 
-<h3>👁️ Vision Verify</h3>
+<h3>👁️ Deepfake Identifier</h3>
 
 <p align="left">
 Deepfake detection system using <b>CNN-LSTM</b> architecture
@@ -161,7 +161,7 @@ to identify spatial and temporal facial anomalies.
 
 <br/><br/>
 
-<a href="https://github.com/vaibhavshiroorkar/vision-verify">
+<a href="https://github.com/vaibhavshiroorkar/deepfake-identifier">
   <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
