@@ -2,9 +2,8 @@
   
 # 🚀 Vaibhav Shiroorkar
 
-### AI/ML Engineer • Backend Systems • Data Pipelines
-
-*Architecting intelligent financial infrastructure from transaction to compliance.*
+### • Backend Software Engineer • Full Stack Developer •
+*Architecting intelligent systems from hardware constraints to cloud-scale applications.*
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavshiroorkar/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shiroorkarvaibhav@gmail.com)
@@ -16,11 +15,13 @@
 
 ## 💡 About Me
 
-**I am an engineer bridging the gap between high-scale systems and Applied AI.**
+**I am an engineer bridging the gap between hardware logic and high-scale software systems.**
 
-Coming from a background in systems and electronics, I value reliability and constraints. I am currently executing a rigorous **36-week engineering roadmap** to build production-grade AI systems for the BFSI (Banking, Financial Services, and Insurance) domain.
+Currently pursuing my **B.Tech in Electronics and Computer Engineering** at K. J. Somaiya College of Engineering, I have a strong foundation in both low-level constraints and high-level application design. My experience includes:
 
-My focus is **PaymentIQ**—a real-time payment processing engine integrated with ML-based fraud detection and GenAI compliance agents.
+* **Medical Tech Intern at Philips:** Gained hands-on experience in troubleshooting and maintaining critical medical equipment.
+* **Systems Development:** Building predictive models and financial tools using Python and Flask.
+* **Current Focus:** I am executing a rigorous engineering roadmap to build production-grade AI systems for the BFSI (Banking, Financial Services, and Insurance) domain.
 
 ---
 
@@ -28,31 +29,34 @@ My focus is **PaymentIQ**—a real-time payment processing engine integrated wit
 
 <div align="center">
 
-**Core & Backend**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Machine Learning & Data**
+**Web & Backend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Data & ML**
 
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FLAMA?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**GenAI & LLMs**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-**DevOps & Infrastructure**
+**DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
@@ -64,11 +68,53 @@ My focus is **PaymentIQ**—a real-time payment processing engine integrated wit
   <tr>
     <td width="50%" valign="top">
 
-<h3>🏥 Disease Prediction System</h3>
+<h3>🛡️ PaySentry</h3>
+<img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" />
 <p align="left">
-Predictive analysis engine utilizing <b>Supervised Learning</b> to diagnose potential ailments based on patient vitals. Features high-accuracy <b>Random Forest</b> models.
+<b>Real-Time Payment Intelligence Platform.</b><br>
+A comprehensive engine mimicking banking infrastructure. Features <b>Fraud Detection</b> (XGBoost/NetworkX) and <b>Compliance AI</b> (LangChain/RAG) to score transactions in <100ms.
+</p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+
+<br/><br/>
+<a href="https://github.com/vaibhavshiroorkar/payment-iq">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🖥️ PCEase</h3>
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+<p align="left">
+<b>A Comprehensive PC Building Platform.</b><br>
+Developed a React & Node.js platform enabling users to configure hardware setups. Engineered a complex <b>compatibility algorithm</b> to automatically validate component interoperability, reducing user error by 40%.
+</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+
+<br/><br/>
+<a href="https://github.com/vaibhavshiroorkar/pc-ease">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+  </tr>
+  <tr>
+      <td width="50%" valign="top">
+
+<h3>🏥 Disease Prevention System</h3>
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+<p align="left">
+<b>🏆 First Prize Winner (Final Year Project).</b><br>
+Full-stack predictive system designed to forecast disease rates based on environmental weather patterns. Built using <b>Flask</b> and trained <b>Linear Regression</b> models via Scikit-learn.
 </p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
 
 <br/><br/>
@@ -77,19 +123,21 @@ Predictive analysis engine utilizing <b>Supervised Learning</b> to diagnose pote
 </a>
 
 </td>
-
 <td width="50%" valign="top">
 
-<h3>💻 PC Ease</h3>
+<h3>💰 Financial Data Collection System</h3>
+<img src="https://img.shields.io/badge/Status-Hackathon_Participant-blue?style=flat-square" />
 <p align="left">
-System utility suite designed to <b>automate maintenance</b> and optimize hardware performance. Reduces background overhead through <b>intelligent script execution</b>.
+<b>Hackathon Project.</b><br>
+Web-based platform for submitting financial records with real-time server-side validation. Features automated backend scripts to compile data directly into formatted Excel files.
 </p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 
 <br/><br/>
-<a href="https://github.com/vaibhavshiroorkar/pc-ease">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/vaibhavshiroorkar">
+  <img src="https://img.shields.io/badge/View_Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -100,26 +148,6 @@ System utility suite designed to <b>automate maintenance</b> and optimize hardwa
 
 ---
 
-## 🎯 Current Focus: Project PaymentIQ
-
-> *Status: In Active Development (Jan 2026 - Sept 2026)*
-
-**PaymentIQ** is a comprehensive Real-Time Payment Intelligence Platform designed to mimic modern banking infrastructure.
-
-| Component | Tech Stack | Key Features |
-| :--- | :--- | :--- |
-| **Core Engine** | FastAPI, PostgreSQL, Redis | High-concurrency transaction ledger, Idempotency, Webhooks |
-| **Fraud Detection** | XGBoost, NetworkX, Scikit-learn | < 100ms real-time scoring, Circular fraud detection, Graph analysis |
-| **Compliance AI** | LangChain, RAG, Vector DBs | Automated regulatory agents, "Explainable AI" (SHAP) for flagged transactions |
-
-<div align="center">
-<a href="https://github.com/vaibhavshiroorkar/payment-iq">
-  <img src="https://img.shields.io/badge/View_PaymentIQ_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</div>
-
-
----
 ## 📊 Algorithmic Consistency
 
 <div align="center">
