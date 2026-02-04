@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # 🚀 Vaibhav Shiroorkar
 
 ### • Backend Software Engineer •
@@ -16,13 +16,11 @@
 
 ## 💡 About Me
 
-**I am an engineer bridging the gap between hardware logic and high-scale software systems.**
+I'm a Electronics & Computer Engineering student at K.J Somaiya College of Engineering, specializing in Machine Learning.
 
-Currently pursuing my **B.Tech in Electronics and Computer Engineering** at K. J. Somaiya College of Engineering, My experience includes:
+I build scalable backend systems, develop data-driven solutions, and explore emerging technologies.
 
-* **Medical Tech Intern at Philips:** Gained hands-on experience in troubleshooting and maintaining critical medical equipment.
-* **Systems Development:** Building predictive models and financial tools using Python and Flask.
-* **Current Focus:** I am executing a rigorous engineering roadmap to build production-grade AI systems for the BFSI (Banking, Financial Services, and Insurance) domain.
+My passion lies in bridging the gap between theoretical models and practical applications.
 
 ---
 
@@ -34,23 +32,28 @@ Currently pursuing my **B.Tech in Electronics and Computer Engineering** at K. J
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Data & ML**
+**AI & Machine Learning**
 
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
 
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **DevOps & Tools**
 
@@ -70,17 +73,20 @@ Currently pursuing my **B.Tech in Electronics and Computer Engineering** at K. J
   <tr>
     <td width="50%" valign="top">
 
-<h3>🛡️ PaySentry</h3>
-<img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" />
+<h3>
+  🛡️ PaySentry
+  <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" align="right" height="20" />
+</h3>
 <p align="left">
 <b>Real-Time Payment Intelligence Platform.</b><br>
-A comprehensive engine mimicking banking infrastructure. Features <b>Fraud Detection</b> (XGBoost/NetworkX) and <b>Compliance AI</b> (LangChain/RAG) to score transactions in &lt;100ms.
+Architecting a high-throughput engine for financial security. Implements <b>Fraud Detection</b> via XGBoost and <b>Compliance AI</b> using RAG pipelines to ensure sub-100ms latency for transaction scoring.
 </p>
+<p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square" />
+</p>
 
-<br/><br/>
 <a href="https://github.com/vaibhavshiroorkar/payment-iq">
   <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -89,18 +95,21 @@ A comprehensive engine mimicking banking infrastructure. Features <b>Fraud Detec
 
 <td width="50%" valign="top">
 
-<h3>🖥️ PCEase</h3>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+<h3>
+  🕵️ Deepfake Detection
+  <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" align="right" height="20" />
+</h3>
 <p align="left">
-<b>A Comprehensive PC Building Platform.</b><br>
-Developed a React & Node.js platform enabling users to configure hardware setups. Engineered a complex <b>compatibility algorithm</b> to automatically validate component interoperability, reducing user error by 40%.
+<b>Media Forensics & Authenticity System.</b><br>
+Building a computer vision pipeline to identify manipulated media. Utilizes <b>OpenCV</b> for frame-by-frame analysis and deep learning models served via <b>FastAPI</b> to detect facial anomalies and synthetic artifacts in real-time.
 </p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
 
-<br/><br/>
-<a href="https://github.com/vaibhavshiroorkar/pc-ease">
+<a href="https://github.com/vaibhavshiroorkar/deepfake-detection">
   <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -109,17 +118,20 @@ Developed a React & Node.js platform enabling users to configure hardware setups
   <tr>
       <td width="50%" valign="top">
 
-<h3>🏥 Disease Prevention System</h3>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+<h3>
+  🏥 Disease Prevention
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" align="right" height="20" />
+</h3>
 <p align="left">
-<b>🏆 First Prize Winner (Final Year Project).</b><br>
-Full-stack predictive system designed to forecast disease rates based on environmental weather patterns. Built using <b>FastAPI</b> and trained <b>Linear Regression</b> models via Scikit-learn.
+<b>🏆 1st Prize Winner (Final Year Project).</b><br>
+An environmental-to-health predictive platform. Leverages <b>Linear Regression</b> to forecast regional disease outbreaks by analyzing meteorological patterns and historical health data.
 </p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+</p>
 
-<br/><br/>
 <a href="https://github.com/vaibhavshiroorkar/disease-prediction-system">
   <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -127,18 +139,21 @@ Full-stack predictive system designed to forecast disease rates based on environ
 </td>
 <td width="50%" valign="top">
 
-<h3>💰 Financial Data Collection System</h3>
-<img src="https://img.shields.io/badge/Status-Hackathon_Participant-blue?style=flat-square" />
+<h3>
+  📲 SilverGuard
+  <img src="https://img.shields.io/badge/Status-Hackathon-blue?style=flat-square" align="right" height="20" />
+</h3>
 <p align="left">
-<b>Hackathon Project.</b><br>
-Web-based platform for submitting financial records with real-time server-side validation. Features automated backend scripts to compile data directly into formatted Excel files.
+<b>On-Device Fraud Detection.</b><br>
+A cross-platform mobile security application. Detects scams via <b>real-time on-screen and on-call analysis</b>. Orchestrates automation via <b>n8n workflows</b> and a Python backend, integrated into a responsive <b>Flutter</b> interface.
 </p>
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-FF6D5B?style=flat-square&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+</p>
 
-<br/><br/>
-<a href="https://github.com/vaibhavshiroorkar/fintrack">
+<a href="https://github.com/vaibhavshiroorkar/silverguard">
   <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
