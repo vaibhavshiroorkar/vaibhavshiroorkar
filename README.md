@@ -84,7 +84,7 @@ Architecting a high-throughput engine for financial security. Implements <b>Frau
 <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square" />
 </p>
 
-<a href="https://github.com/vaibhavshiroorkar/payment-iq">
+<a href="https://github.com/vaibhavshiroorkar/paysentry">
   <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
