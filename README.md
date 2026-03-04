@@ -121,7 +121,7 @@ Building a computer vision pipeline to identify manipulated media. Utilizes <b>O
 </h3>
 <p align="left">
 <b>🏆 1st Prize Winner (Final Year Project).</b><br>
-An environmental-to-health predictive platform. Leverages <b>Linear Regression</b> to forecast regional disease outbreaks by analyzing meteorological patterns and historical health data.
+An environmental-to-health predictive platform. Leverages <b>Random Forest and Gradient Boosting</b> to forecast regional disease outbreaks by analyzing meteorological patterns and historical health data.
 </p>
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
