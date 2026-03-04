@@ -138,7 +138,7 @@ An environmental-to-health predictive platform. Leverages <b>Linear Regression</
 
 <h3>
   🖥️ PCEase
-  <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" align="right" height="20" />
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
 <b>Hardware Marketplace & Compatibility Engine.</b><br>
