@@ -5,7 +5,7 @@
 ### • Backend Software Engineer •
 *Architecting intelligent systems from hardware constraints to cloud-scale applications.*
 
-[![Website](https://img.shields.io/badge/-Website-007bff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shiroorkar.com)
+[![Website](https://img.shields.io/badge/VIEW_Portfolio-009688?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shiroorkar.com)
 
 </div>
 
@@ -137,6 +137,29 @@ An environmental-to-health predictive platform. Leverages <b>Linear Regression</
 <td width="50%" valign="top">
 
 <h3>
+  🖥️ PCEase
+  <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" align="right" height="20" />
+</h3>
+<p align="left">
+<b>Hardware Marketplace & Compatibility Engine.</b><br>
+Developing an intuitive platform for custom PC building. Implements <b>dynamic component matching</b> and real-time inventory tracking to simplify the PC building experience.
+</p>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+<a href="https://github.com/vaibhavshiroorkar/pcease">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+  </tr>
+  <tr>
+      <td width="50%" valign="top">
+
+<h3>
   📲 SilverGuard
   <img src="https://img.shields.io/badge/Status-Hackathon-blue?style=flat-square" align="right" height="20" />
 </h3>
@@ -151,6 +174,27 @@ A cross-platform mobile security application. Detects scams via <b>real-time on-
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/silverguard">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>
+  📈 Fintrack
+  <img src="https://img.shields.io/badge/Status-Hackathon-blue?style=flat-square" align="right" height="20" />
+</h3>
+<p align="left">
+<b>Intelligent Financial Analytics Dashboard.</b><br>
+A data-driven project for personal wealth management. Uses <b>advanced data visualization</b> and spending categorization to provide users with actionable insights into their financial health.
+</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+</p>
+
+<a href="https://github.com/vaibhavshiroorkar/fintrack">
   <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
