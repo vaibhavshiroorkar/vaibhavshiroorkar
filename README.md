@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Vaibhav Shiroorkar
+# Vaibhav Shiroorkar
 
 ### • Backend Software Engineer •
 *Architecting intelligent systems from hardware constraints to cloud-scale applications.*
@@ -11,9 +11,9 @@
 
 ---
 
-## 💡 About Me
+## About Me
 
-I'm a Electronics & Computer Engineering student at K.J Somaiya College of Engineering, specializing in Machine Learning.
+I'm an Electronics & Computer Engineering student at K.J Somaiya College of Engineering, specializing in Machine Learning.
 
 I build scalable backend systems, develop data-driven solutions, and explore emerging technologies.
 
@@ -21,7 +21,7 @@ My passion lies in bridging the gap between theoretical models and practical app
 
 ---
 
-## 🛠️ Technology Stack
+## Tech Stack
 
 <div align="center">
 
@@ -34,7 +34,7 @@ My passion lies in bridging the gap between theoretical models and practical app
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
 
 **Backend**
 
@@ -62,7 +62,7 @@ My passion lies in bridging the gap between theoretical models and practical app
 
 ---
 
-## 📂 Engineering Work
+## Project Work
 
 <div align="center">
 
@@ -71,7 +71,7 @@ My passion lies in bridging the gap between theoretical models and practical app
     <td width="50%" valign="top">
 
 <h3>
-  🛡️ PaySentry
+  PaySentry
   <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
@@ -93,7 +93,7 @@ Architecting a high-throughput engine for financial security. Implements <b>Frau
 <td width="50%" valign="top">
 
 <h3>
-  🕵️ Deepfake Detection
+  Deepfake Detection
   <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
@@ -116,11 +116,11 @@ Building a computer vision pipeline to identify manipulated media. Utilizes <b>O
       <td width="50%" valign="top">
 
 <h3>
-  🏥 Disease Prevention
+  Disease Prevention
   <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
-<b>🏆 1st Prize Winner (Final Year Project).</b><br>
+<b>1st Prize Winner (Final Year Project).</b><br>
 An environmental-to-health predictive platform. Leverages <b>Random Forest and Gradient Boosting</b> to forecast regional disease outbreaks by analyzing meteorological patterns and historical health data.
 </p>
 <p>
@@ -137,7 +137,7 @@ An environmental-to-health predictive platform. Leverages <b>Random Forest and G
 <td width="50%" valign="top">
 
 <h3>
-  🖥️ PCEase
+  PCEase
   <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
@@ -160,7 +160,7 @@ Developing an intuitive platform for custom PC building. Implements <b>dynamic c
       <td width="50%" valign="top">
 
 <h3>
-  📲 SilverGuard
+  SilverGuard
   <img src="https://img.shields.io/badge/Status-Hackathon-blue?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
@@ -181,7 +181,7 @@ A cross-platform mobile security application. Detects scams via <b>real-time on-
 <td width="50%" valign="top">
 
 <h3>
-  📈 Fintrack
+  Fintrack
   <img src="https://img.shields.io/badge/Status-Hackathon-blue?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
@@ -206,7 +206,7 @@ A data-driven project for personal wealth management. Uses <b>advanced data visu
 
 ---
 
-## 📊 Algorithmic Consistency
+## DSA Statistics
 
 <div align="center">
   <a href="https://leetcode.com/vaibhavshiroorkar">
