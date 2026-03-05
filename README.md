@@ -1,33 +1,34 @@
 <div align="center">
 
-# Vaibhav Shiroorkar
+# Hey, I'm Vaibhav Shiroorkar
 
-### • Backend Software Engineer •
-*Architecting intelligent systems from hardware constraints to cloud-scale applications.*
+ **Software Engineer** who loves turning messy real-world problems into clean, scalable systems.
 
-[![Website](https://img.shields.io/badge/VIEW_Portfolio-009688?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shiroorkar.com)
+[![Website](https://img.shields.io/badge/My_Portfolio-009688?style=for-the-badge&logoColor=white)](https://shiroorkar.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vaibhavshiroorkar)
 
 </div>
 
 ---
 
-## About Me
+##  A Little About Me
 
-I'm an Electronics & Computer Engineering student at K.J Somaiya College of Engineering, specializing in Machine Learning.
+I'm a final-year Electronics & Computer Engineering student at **K.J. Somaiya College of Engineering**, with a focus on Machine Learning.
 
-I build scalable backend systems, develop data-driven solutions, and explore emerging technologies.
+Most of my time goes into building backend systems that actually work at scale — whether that's a fraud detection engine that needs sub-100ms responses or a pipeline crunching weather data to predict disease outbreaks. I like writing code that solves real problems, not just homework assignments.
 
-My passion lies in bridging the gap between theoretical models and practical applications.
+When I'm not coding, I'm probably on LeetCode or researching a new side project I'll definitely finish this time.
 
 ---
 
-## Tech Stack
+## What I Work With
 
 <div align="center">
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **AI & Machine Learning**
 
@@ -36,21 +37,19 @@ My passion lies in bridging the gap between theoretical models and practical app
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
 
-**Backend**
+**Backend & Databases**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **Frontend**
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **DevOps & Tools**
 
@@ -62,7 +61,7 @@ My passion lies in bridging the gap between theoretical models and practical app
 
 ---
 
-## Project Work
+## Things I've Built
 
 <div align="center">
 
@@ -71,12 +70,12 @@ My passion lies in bridging the gap between theoretical models and practical app
     <td width="50%" valign="top">
 
 <h3>
-  PaySentry
-  <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" align="right" height="20" />
+  💳 PaySentry
+  <img src="https://img.shields.io/badge/In_Progress-orange?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
-<b>Real-Time Payment Intelligence Platform.</b><br>
-Architecting a high-throughput engine for financial security. Implements <b>Fraud Detection</b> via XGBoost and <b>Compliance AI</b> using RAG pipelines to ensure sub-100ms latency for transaction scoring.
+<b>Real-time payment fraud detection.</b><br>
+Think of it as a watchdog for financial transactions. It scores payments in under 100ms using XGBoost, and has a compliance AI layer built on RAG pipelines so it can reason about regulations — not just flag numbers.
 </p>
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -85,7 +84,7 @@ Architecting a high-throughput engine for financial security. Implements <b>Frau
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/paysentry">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -93,12 +92,12 @@ Architecting a high-throughput engine for financial security. Implements <b>Frau
 <td width="50%" valign="top">
 
 <h3>
-  Deepfake Detection
-  <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" align="right" height="20" />
+  🔍 Deepfake Detection
+  <img src="https://img.shields.io/badge/In_Progress-orange?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
-<b>Media Forensics & Authenticity System.</b><br>
-Building a computer vision pipeline to identify manipulated media. Utilizes <b>OpenCV</b> for frame-by-frame analysis and deep learning models served via <b>FastAPI</b> to detect facial anomalies and synthetic artifacts in real-time.
+<b>Spotting manipulated media before it spreads.</b><br>
+A computer vision pipeline that tears through video frame-by-frame with OpenCV, hunting for the subtle facial artifacts that give deepfakes away. The detection model is served via FastAPI for real-time analysis.
 </p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -107,7 +106,7 @@ Building a computer vision pipeline to identify manipulated media. Utilizes <b>O
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/deepfake-detection">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -116,12 +115,12 @@ Building a computer vision pipeline to identify manipulated media. Utilizes <b>O
       <td width="50%" valign="top">
 
 <h3>
-  Disease Prevention
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" align="right" height="20" />
+  🏥 Disease Prevention
+  <img src="https://img.shields.io/badge/1st_Prize_🏆-success?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
-<b>1st Prize Winner (Final Year Project).</b><br>
-An environmental-to-health predictive platform. Leverages <b>Random Forest and Gradient Boosting</b> to forecast regional disease outbreaks by analyzing meteorological patterns and historical health data.
+<b>Predicting outbreaks before they happen.</b><br>
+My final year project — and the one that won 1st prize. It connects the dots between weather patterns and disease outbreaks using Random Forest & Gradient Boosting, giving health officials a heads-up before things get bad.
 </p>
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -130,19 +129,19 @@ An environmental-to-health predictive platform. Leverages <b>Random Forest and G
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/disease-prediction-system">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
 <h3>
-  PCEase
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" align="right" height="20" />
+  🖥️ PCEase
+  <img src="https://img.shields.io/badge/Completed-success?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
-<b>Hardware Marketplace & Compatibility Engine.</b><br>
-Developing an intuitive platform for custom PC building. Implements <b>dynamic component matching</b> and real-time inventory tracking to simplify the PC building experience.
+<b>Custom PC building, minus the headaches.</b><br>
+A marketplace that handles the annoying part of building a PC — will this RAM work with that motherboard? PCEase figures out compatibility for you with dynamic component matching and live inventory tracking.
 </p>
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -151,7 +150,7 @@ Developing an intuitive platform for custom PC building. Implements <b>dynamic c
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/pcease">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -160,12 +159,12 @@ Developing an intuitive platform for custom PC building. Implements <b>dynamic c
       <td width="50%" valign="top">
 
 <h3>
-  SilverGuard
-  <img src="https://img.shields.io/badge/Status-Hackathon-blue?style=flat-square" align="right" height="20" />
+  🛡️ SilverGuard
+  <img src="https://img.shields.io/badge/Hackathon-blue?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
-<b>On-Device Fraud Detection.</b><br>
-A cross-platform mobile security application. Detects scams via <b>real-time on-screen and on-call analysis</b>. Orchestrates automation via <b>n8n workflows</b> and a Python backend, integrated into a responsive <b>Flutter</b> interface.
+<b>Protecting people from scams in real time.</b><br>
+A mobile app that watches your screen and listens to calls to catch scam attempts as they happen. The heavy lifting runs through n8n automation workflows and a Python backend, all wrapped in a clean Flutter UI.
 </p>
 <p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
@@ -174,19 +173,19 @@ A cross-platform mobile security application. Detects scams via <b>real-time on-
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/silverguard">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
 <h3>
-  Fintrack
-  <img src="https://img.shields.io/badge/Status-Hackathon-blue?style=flat-square" align="right" height="20" />
+  📊 Fintrack
+  <img src="https://img.shields.io/badge/Hackathon-blue?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
-<b>Intelligent Financial Analytics Dashboard.</b><br>
-A data-driven project for personal wealth management. Uses <b>advanced data visualization</b> and spending categorization to provide users with actionable insights into their financial health.
+<b>Making sense of where your money actually goes.</b><br>
+A financial analytics dashboard that auto-categorizes your spending and turns raw transaction data into visual insights you can actually act on. Built for people who want clarity, not spreadsheets.
 </p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -195,7 +194,7 @@ A data-driven project for personal wealth management. Uses <b>advanced data visu
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/fintrack">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -206,10 +205,21 @@ A data-driven project for personal wealth management. Uses <b>advanced data visu
 
 ---
 
-## DSA Statistics
+## DSA Progress
 
 <div align="center">
   <a href="https://leetcode.com/vaibhavshiroorkar">
     <img src="https://leetcard.jacoblin.cool/vaibhavshiroorkar?theme=dark&font=Noto%20Sans" height="185" alt="LeetCode Stats" />
   </a>
+</div>
+
+---
+
+<div align="center">
+
+**Let's connect** — I'm always up for interesting conversations and collaborations.
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shiroorkarvaibhav@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavshiroorkar)
+
 </div>
