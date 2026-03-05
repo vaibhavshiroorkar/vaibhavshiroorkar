@@ -15,7 +15,7 @@
 
 I'm a final-year Electronics & Computer Engineering student at **K.J. Somaiya College of Engineering**, with a focus on Machine Learning.
 
-Most of my time goes into building backend systems that actually work at scale — whether that's a fraud detection engine that needs sub-100ms responses or a pipeline crunching weather data to predict disease outbreaks. I like writing code that solves real problems, not just homework assignments.
+Most of my time goes into building backend systems that actually work at scale, whether that's a fraud detection engine that needs sub-100ms responses or a pipeline crunching weather data to predict disease outbreaks. I like writing code that solves real problems, not just homework assignments.
 
 When I'm not coding, I'm probably on LeetCode or researching a new side project I'll definitely finish this time.
 
@@ -75,7 +75,7 @@ When I'm not coding, I'm probably on LeetCode or researching a new side project 
 </h3>
 <p align="left">
 <b>Real-time payment fraud detection.</b><br>
-Think of it as a watchdog for financial transactions. It scores payments in under 100ms using XGBoost, and has a compliance AI layer built on RAG pipelines so it can reason about regulations — not just flag numbers.
+Think of it as a watchdog for financial transactions. It scores payments in under 100ms using XGBoost, and has a compliance AI layer built on RAG pipelines so it can reason about regulations and not just flag numbers.
 </p>
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -120,7 +120,7 @@ A computer vision pipeline that tears through video frame-by-frame with OpenCV, 
 </h3>
 <p align="left">
 <b>Predicting outbreaks before they happen.</b><br>
-My final year project — and the one that won 1st prize. It connects the dots between weather patterns and disease outbreaks using Random Forest & Gradient Boosting, giving health officials a heads-up before things get bad.
+My final year project and the one that won 1st prize. It connects the dots between weather patterns and disease outbreaks using Random Forest & Gradient Boosting, giving health officials a heads-up before things get bad.
 </p>
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -141,7 +141,7 @@ My final year project — and the one that won 1st prize. It connects the dots b
 </h3>
 <p align="left">
 <b>Custom PC building, minus the headaches.</b><br>
-A marketplace that handles the annoying part of building a PC — will this RAM work with that motherboard? PCEase figures out compatibility for you with dynamic component matching and live inventory tracking.
+A marketplace that handles the annoying part of building a PC, will this RAM work with that motherboard? PCEase figures out compatibility for you with dynamic component matching and live inventory tracking.
 </p>
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -217,7 +217,7 @@ A financial analytics dashboard that auto-categorizes your spending and turns ra
 
 <div align="center">
 
-**Let's connect** — I'm always up for interesting conversations and collaborations.
+**Let's connect**, I'm always up for interesting conversations and collaborations.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shiroorkarvaibhav@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavshiroorkar)
