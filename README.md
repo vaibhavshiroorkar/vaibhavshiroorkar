@@ -84,7 +84,7 @@ Think of it as a watchdog for financial transactions. It scores payments in unde
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/paysentry">
-  <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -106,13 +106,13 @@ A computer vision pipeline that tears through video frame-by-frame with OpenCV, 
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/deepfake-detection">
-  <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
   </tr>
   <tr>
-      <td width="50%" valign="top">
+    <td width="50%" valign="top">
 
 <h3>
   🏥 Disease Prevention
@@ -129,11 +129,14 @@ My final year project and the one that won 1st prize. It connects the dots betwe
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/disease-prediction-system">
-  <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://diseasepredictionsystem.vercel.app/">
+  <img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" />
 </a>
 
 </td>
-<td width="50%" valign="top">
+    <td width="50%" valign="top">
 
 <h3>
   🖥️ PCEase
@@ -150,13 +153,16 @@ A marketplace that handles the annoying part of building a PC, will this RAM wor
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/pcease">
-  <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://pcease.vercel.app/">
+  <img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" />
 </a>
 
 </td>
   </tr>
   <tr>
-      <td width="50%" valign="top">
+    <td width="50%" valign="top">
 
 <h3>
   🛡️ SilverGuard
@@ -173,11 +179,11 @@ A mobile app that watches your screen and listens to calls to catch scam attempt
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/silverguard">
-  <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
-<td width="50%" valign="top">
+    <td width="50%" valign="top">
 
 <h3>
   📊 Fintrack
@@ -194,7 +200,7 @@ A financial analytics dashboard that auto-categorizes your spending and turns ra
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/fintrack">
-  <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
