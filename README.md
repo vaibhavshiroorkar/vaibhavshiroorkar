@@ -128,13 +128,7 @@ My final year project and the one that won 1st prize. It connects the dots betwe
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 </p>
 
-<a href="https://github.com/vaibhavshiroorkar/disease-prediction-system">
-  <img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://diseasepredictionsystem.vercel.app/">
-  <img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" />
-</a>
-
+<a href="https://github.com/vaibhavshiroorkar/disease-prediction-system"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a><a href="https://diseasepredictionsystem.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
 </td>
     <td width="50%" valign="top">
 
@@ -152,12 +146,7 @@ A marketplace that handles the annoying part of building a PC, will this RAM wor
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-<a href="https://github.com/vaibhavshiroorkar/pcease">
-  <img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://pcease.vercel.app/">
-  <img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" />
-</a>
+<a href="https://github.com/vaibhavshiroorkar/pcease"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a><a href="https://pcease.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
 
 </td>
   </tr>
