@@ -73,19 +73,17 @@ When I'm not coding, I'm probably on LeetCode or researching a new side project 
   💳 PaySentry
   <img src="https://img.shields.io/badge/In_Progress-orange?style=flat-square" align="right" height="20" />
 </h3>
-<p align="left">
-<b>Real-time payment fraud detection.</b><br>
-Think of it as a watchdog for financial transactions. It scores payments in under 100ms using XGBoost, and has a compliance AI layer built on RAG pipelines so it can reason about regulations and not just flag numbers.
-</p>
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square" />
 </p>
+<p align="left">
+<b>Real-time payment fraud detection.</b><br>
+Think of it as a watchdog for financial transactions. It scores payments in under 100ms using XGBoost, and has a compliance AI layer built on RAG pipelines so it can reason about regulations and not just flag numbers.
+</p>
 
-<a href="https://github.com/vaibhavshiroorkar/paysentry">
-  <img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://github.com/vaibhavshiroorkar/paysentry"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 
@@ -95,19 +93,17 @@ Think of it as a watchdog for financial transactions. It scores payments in unde
   🔍 Deepfake Detection
   <img src="https://img.shields.io/badge/In_Progress-orange?style=flat-square" align="right" height="20" />
 </h3>
-<p align="left">
-<b>Spotting manipulated media before it spreads.</b><br>
-A computer vision pipeline that tears through video frame-by-frame with OpenCV, hunting for the subtle facial artifacts that give deepfakes away. The detection model is served via FastAPI for real-time analysis.
-</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 </p>
+<p align="left">
+<b>Spotting manipulated media before it spreads.</b><br>
+A computer vision pipeline that tears through video frame-by-frame with OpenCV, hunting for the subtle facial artifacts that give deepfakes away. The detection model is served via FastAPI for real-time analysis.
+</p>
 
-<a href="https://github.com/vaibhavshiroorkar/deepfake-detection">
-  <img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://github.com/vaibhavshiroorkar/deepfake-detection"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
   </tr>
@@ -118,17 +114,18 @@ A computer vision pipeline that tears through video frame-by-frame with OpenCV, 
   🏥 Disease Prevention
   <img src="https://img.shields.io/badge/1st_Prize_🏆-success?style=flat-square" align="right" height="20" />
 </h3>
-<p align="left">
-<b>Predicting outbreaks before they happen.</b><br>
-My final year project and the one that won 1st prize. It connects the dots between weather patterns and disease outbreaks using Random Forest & Gradient Boosting, giving health officials a heads-up before things get bad.
-</p>
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 </p>
+<p align="left">
+<b>Predicting outbreaks before they happen.</b><br>
+My final year project and the one that won 1st prize. It connects the dots between weather patterns and disease outbreaks using Random Forest & Gradient Boosting, giving health officials a heads-up before things get bad.
+</p>
 
 <a href="https://github.com/vaibhavshiroorkar/disease-prediction-system"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a><a href="https://diseasepredictionsystem.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
+
 </td>
     <td width="50%" valign="top">
 
@@ -136,14 +133,14 @@ My final year project and the one that won 1st prize. It connects the dots betwe
   🖥️ PCEase
   <img src="https://img.shields.io/badge/Completed-success?style=flat-square" align="right" height="20" />
 </h3>
-<p align="left">
-<b>Custom PC building, minus the headaches.</b><br>
-A marketplace that handles the annoying part of building a PC, will this RAM work with that motherboard? PCEase figures out compatibility for you with dynamic component matching and live inventory tracking.
-</p>
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+<p align="left">
+<b>Custom PC building, minus the headaches.</b><br>
+A marketplace that handles the annoying part of building a PC, will this RAM work with that motherboard? PCEase figures out compatibility for you with dynamic component matching and live inventory tracking.
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/pcease"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a><a href="https://pcease.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
@@ -157,19 +154,17 @@ A marketplace that handles the annoying part of building a PC, will this RAM wor
   🛡️ SilverGuard
   <img src="https://img.shields.io/badge/Hackathon-blue?style=flat-square" align="right" height="20" />
 </h3>
-<p align="left">
-<b>Protecting people from scams in real time.</b><br>
-A mobile app that watches your screen and listens to calls to catch scam attempts as they happen. The heavy lifting runs through n8n automation workflows and a Python backend, all wrapped in a clean Flutter UI.
-</p>
 <p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-FF6D5B?style=flat-square&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
+<p align="left">
+<b>Protecting people from scams in real time.</b><br>
+A mobile app that watches your screen and listens to calls to catch scam attempts as they happen. The heavy lifting runs through n8n automation workflows and a Python backend, all wrapped in a clean Flutter UI.
+</p>
 
-<a href="https://github.com/vaibhavshiroorkar/silverguard">
-  <img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://github.com/vaibhavshiroorkar/silverguard"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
     <td width="50%" valign="top">
@@ -178,19 +173,17 @@ A mobile app that watches your screen and listens to calls to catch scam attempt
   📊 Fintrack
   <img src="https://img.shields.io/badge/Hackathon-blue?style=flat-square" align="right" height="20" />
 </h3>
-<p align="left">
-<b>Making sense of where your money actually goes.</b><br>
-A financial analytics dashboard that auto-categorizes your spending and turns raw transaction data into visual insights you can actually act on. Built for people who want clarity, not spreadsheets.
-</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 </p>
+<p align="left">
+<b>Making sense of where your money actually goes.</b><br>
+A financial analytics dashboard that auto-categorizes your spending and turns raw transaction data into visual insights you can actually act on. Built for people who want clarity, not spreadsheets.
+</p>
 
-<a href="https://github.com/vaibhavshiroorkar/fintrack">
-  <img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://github.com/vaibhavshiroorkar/fintrack"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
   </tr>
