@@ -111,8 +111,8 @@ A computer vision pipeline that tears through video frame-by-frame with OpenCV, 
     <td width="50%" valign="top">
 
 <h3>
-  🏥 Disease Prevention
-  <img src="https://img.shields.io/badge/1st_Prize_🏆-success?style=flat-square" align="right" height="20" />
+  🏥 Disease Prediction System
+  <img src="https://img.shields.io/badge/Completed-success?style=flat-square" align="right" height="20" />
 </h3>
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
