@@ -109,7 +109,7 @@ A marketplace that checks whether components work together before you buy. Curre
 Extracts frames with OpenCV, runs them through a fine tuned EfficientNet-B4 model, and uses Grad-CAM to visualize which facial regions the model focused on.
 </p>
 
-<a href="https://github.com/vaibhavshiroorkar/deepfake-detection"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/vaibhavshiroorkar/deepfake-detection"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/View%20Project-555555?style=for-the-badge&logoColor=white" />
 
 </td>
 
@@ -124,7 +124,7 @@ Extracts frames with OpenCV, runs them through a fine tuned EfficientNet-B4 mode
 Scores transactions using XGBoost trained on engineered velocity and behavioural features. Redis handles low latency caching, model artifact lives on AWS S3.
 </p>
 
-<a href="https://github.com/vaibhavshiroorkar/paysentry"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/vaibhavshiroorkar/paysentry"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/View%20Project-555555?style=for-the-badge&logoColor=white" />
 
 </td>
   </tr>
@@ -140,6 +140,8 @@ Scores transactions using XGBoost trained on engineered velocity and behavioural
 Researching a two stage pipeline: CodeBERT classifies the diff by issue type, then an LLM via LangChain generates targeted feedback. Stores outcomes to improve over time.
 </p>
 
+<a href="https://github.com/vaibhavshiroorkar/pr-review-assistant"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/View%20Project-555555?style=for-the-badge&logoColor=white" />
+
 </td>
 
 <td width="50%" valign="top">
@@ -152,6 +154,8 @@ Researching a two stage pipeline: CodeBERT classifies the diff by issue type, th
 <b>A real time pipeline for live market data.</b><br>
 Pulls live stock data, engineers indicators with Pandas, and runs a LightGBM model for next day direction prediction using walk-forward validation.
 </p>
+
+<a href="https://github.com/vaibhavshiroorkar/market-pulse"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/View%20Project-555555?style=for-the-badge&logoColor=white" />
 
 </td>
   </tr>
