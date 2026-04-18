@@ -71,11 +71,11 @@ I've mostly built backend systems but I'm actively pushing towards ML and lookin
 
 <h3>
   Disease Prediction System
-  <img src="https://img.shields.io/badge/Stable-007d6e?style=flat-square" align="right" height="20" />
+  <img src="https://img.shields.io/badge/Stable_v1.0-1db954?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
 <b>Predicting disease outbreaks before they happen.</b><br>
-Takes weather data as input and predicts outbreak likelihood using a stacked ensemble with SHAP explainability. Serves predictions and explanations through a FastAPI backend.
+Takes weather data as input and predicts outbreak likelihood using a stacked ensemble with SHAP explainability. Serves predictions and explanations through a FastAPI backend. Built to give health officials an early heads up.
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/disease-prediction-system"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://diseasepredictionsystem.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
@@ -86,11 +86,11 @@ Takes weather data as input and predicts outbreak likelihood using a stacked ens
 
 <h3>
   PCEase
-  <img src="https://img.shields.io/badge/Stable-007d6e?style=flat-square" align="right" height="20" />
+  <img src="https://img.shields.io/badge/Stable_v1.0-1db954?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
-<b>PC building without the compatibility headaches.</b><br>
-A marketplace that checks whether components work together before you buy. Currently layering in a hybrid recommendation engine using content based filtering and compatibility graph traversal.
+<b>Find the cheapest PC parts across every trusted Indian retailer.</b><br>
+Aggregates live prices from MD Computers, Primeabgb and Vedant with a PC builder, compatibility checker and community forum. Adding an AI layer that recommends full builds based on use case and budget.
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/pcease"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://pcease.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
