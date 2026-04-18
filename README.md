@@ -190,22 +190,21 @@ A financial analytics dashboard that auto-categorizes your spending and turns ra
 </table>
 
 </div>
-
+<!--
 ---
-
 ## DSA Progress
-
 <div align="center">
   <a href="https://leetcode.com/vaibhavshiroorkar">
     <img src="https://leetcard.jacoblin.cool/vaibhavshiroorkar?theme=dark&font=Noto%20Sans" height="185" alt="LeetCode Stats" />
   </a>
 </div>
+-->
 
 ---
 
 <div align="center">
 
-**Let's connect**, I'm always up for interesting conversations and collaborations.
+**Open to connections**, I'm always ready for some interesting conversations and collaborations.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shiroorkarvaibhav@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavshiroorkar)
