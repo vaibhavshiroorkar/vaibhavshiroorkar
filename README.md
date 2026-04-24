@@ -102,14 +102,14 @@ Aggregates live prices from MD Computers, Primeabgb and Vedant with a PC builder
 
 <h3>
   Deepfake Detection
-  <img src="https://img.shields.io/badge/In_Progress-e05e00?style=flat-square" align="right" height="20" />
+  <img src="https://img.shields.io/badge/Beta_v0.1-1fa1ff?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
 <b>Spotting manipulated video using deep learning.</b><br>
 Extracts frames with OpenCV, runs them through a fine tuned EfficientNet-B4 model, and uses Grad-CAM to visualize which facial regions the model focused on.
 </p>
 
-<a href="https://github.com/vaibhavshiroorkar/deepfake-detection"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/View%20Project-555555?style=for-the-badge&logoColor=white" />
+<a href="https://github.com/vaibhavshiroorkar/deepfake-detection"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://the-deepfake-detection.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
 
 </td>
 
