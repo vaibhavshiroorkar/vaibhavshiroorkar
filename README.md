@@ -26,6 +26,7 @@ I've mostly built backend systems but I'm actively pushing towards ML and lookin
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **AI and Machine Learning**
 
