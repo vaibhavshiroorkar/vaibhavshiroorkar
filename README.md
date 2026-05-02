@@ -29,7 +29,7 @@ I've mostly built backend systems but I'm actively pushing towards ML and lookin
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Libaries**
+**Libraries**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -37,7 +37,6 @@ I've mostly built backend systems but I'm actively pushing towards ML and lookin
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
 
 **Backend**
 
@@ -75,11 +74,42 @@ I've mostly built backend systems but I'm actively pushing towards ML and lookin
   <img src="https://img.shields.io/badge/Stable_v1.0-1db954?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
-<b>Predicting disease outbreaks before they happen.</b><br>
-Takes weather data as input and predicts outbreak likelihood using a stacked ensemble with SHAP explainability. Serves predictions and explanations through a FastAPI backend. Built to give health officials an early heads up.
+<b>Symptom checker and disease risk assessment.</b><br>
+Pick your symptoms and get a ranked list of likely conditions. Also has separate risk forms for diabetes, heart disease, and stroke, plus a weather-based outbreak predictor for mosquito-borne diseases. Built with a Random Forest and Gradient Boosting ensemble across 41 diseases.
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/disease-prediction-system"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://diseasepredictionsystem.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>
+  Deepfake Detection
+  <img src="https://img.shields.io/badge/Beta_v0.1-1fa1ff?style=flat-square" align="right" height="20" />
+</h3>
+<p align="left">
+<b>Checks whether what you're seeing is real.</b><br>
+Drop in an image, video, audio clip, or some text and it tells you how likely it is to be AI-generated. Each type gets its own set of checks, pretrained classifiers, forensic signals, and an optional LLM cross-check. Returns a suspicion score with every contributing signal shown.
+</p>
+
+<a href="https://github.com/vaibhavshiroorkar/deepfake-detection"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://the-deepfake-detection.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+<h3>
+  PaySentry
+  <img src="https://img.shields.io/badge/In_Progress-e05e00?style=flat-square" align="right" height="20" />
+</h3>
+<p align="left">
+<b>Payment fraud detection in real time.</b><br>
+Scores transactions as they come in using XGBoost trained on velocity and behavioural features. Redis keeps latency low, model artifacts live on AWS S3.
+</p>
+
+<a href="https://github.com/vaibhavshiroorkar/paysentry"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/View%20Project-555555?style=for-the-badge&logoColor=white" />
 
 </td>
 
@@ -91,41 +121,10 @@ Takes weather data as input and predicts outbreak likelihood using a stacked ens
 </h3>
 <p align="left">
 <b>Find the cheapest PC parts across India.</b><br>
-Aggregates live prices from Indian retailers with a PC builder, compatibility checker and community forum. Adding an AI layer that recommends full builds based on use case and budget.
+Aggregates live prices from Indian retailers with a PC builder, compatibility checker, and community forum. Adding an AI layer that recommends full builds based on use case and budget.
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/pcease"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://pcease.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-<h3>
-  Deepfake Detection
-  <img src="https://img.shields.io/badge/Beta_v0.1-1fa1ff?style=flat-square" align="right" height="20" />
-</h3>
-<p align="left">
-<b>Tells you if what you're seeing is real.</b><br>
-Runs independent checks across images, video, audio, and text. Each modality gets its own pipeline: pretrained classifiers, forensic signals, and an LLM cross-check that catches generators the dedicated models haven't seen yet. Returns a suspicion score with every contributing signal shown.
-</p>
-
-<a href="https://github.com/vaibhavshiroorkar/deepfake-detection"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://the-deepfake-detection.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>
-  PaySentry
-  <img src="https://img.shields.io/badge/In_Progress-e05e00?style=flat-square" align="right" height="20" />
-</h3>
-<p align="left">
-<b>Payment fraud detection in real time.</b><br>
-Scores transactions using XGBoost trained on engineered velocity and behavioural features. Redis handles low latency caching, model artifact lives on AWS S3.
-</p>
-
-<a href="https://github.com/vaibhavshiroorkar/paysentry"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/View%20Project-555555?style=for-the-badge&logoColor=white" />
 
 </td>
   </tr>
@@ -138,7 +137,7 @@ Scores transactions using XGBoost trained on engineered velocity and behavioural
 </h3>
 <p align="left">
 <b>Automated code review for GitHub pull requests.</b><br>
-Researching a two stage pipeline: CodeBERT classifies the diff by issue type, then an LLM via LangChain generates targeted feedback. Stores outcomes to improve over time.
+A two-stage pipeline where CodeBERT classifies the diff by issue type, then an LLM via LangChain generates targeted feedback. Stores outcomes to improve over time.
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/pr-review-assistant"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/View%20Project-555555?style=for-the-badge&logoColor=white" />
@@ -152,8 +151,8 @@ Researching a two stage pipeline: CodeBERT classifies the diff by issue type, th
   <img src="https://img.shields.io/badge/Research-555555?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
-<b>A real time pipeline for live market data.</b><br>
-Pulls live stock data, engineers indicators with Pandas, and runs a LightGBM model for next day direction prediction using walk-forward validation.
+<b>Next-day stock direction prediction.</b><br>
+Pulls live stock data, engineers indicators with Pandas, and runs a LightGBM model for next-day direction prediction using walk-forward validation.
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/market-pulse"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/View%20Project-555555?style=for-the-badge&logoColor=white" />
