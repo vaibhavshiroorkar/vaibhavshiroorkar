@@ -28,7 +28,7 @@ I've mostly built backend systems but I'm actively pushing towards ML and lookin
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**AI & Machine Learning**
+**Libaries**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -38,7 +38,7 @@ I've mostly built backend systems but I'm actively pushing towards ML and lookin
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
-**Backend & Databases**
+**Backend**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -51,7 +51,7 @@ I've mostly built backend systems but I'm actively pushing towards ML and lookin
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Developer Tools**
+**Tools**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -105,8 +105,8 @@ Aggregates live prices from Indian retailers with a PC builder, compatibility ch
   <img src="https://img.shields.io/badge/Beta_v0.1-1fa1ff?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
-<b>Spotting manipulated video using deep learning.</b><br>
-Extracts frames with OpenCV, runs them through a fine tuned EfficientNet-B4 model, and uses Grad-CAM to visualize which facial regions the model focused on.
+<b>Tells you if what you're seeing is real.</b><br>
+Runs independent checks across images, video, audio, and text. Each modality gets its own pipeline: pretrained classifiers, forensic signals, and an LLM cross-check that catches generators the dedicated models haven't seen yet. Returns a suspicion score with every contributing signal shown.
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/deepfake-detection"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://the-deepfake-detection.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
