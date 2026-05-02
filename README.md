@@ -3,6 +3,7 @@
 # Hi, I'm Vaibhav Shiroorkar
 
 [![Website](https://img.shields.io/badge/My_Portfolio-009688?style=for-the-badge&logoColor=white)](https://shiroorkar.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavshiroorkar)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vaibhavshiroorkar)
 
 </div>
@@ -167,9 +168,6 @@ Pulls live stock data, engineers indicators with Pandas, and runs a LightGBM mod
 
 <div align="center">
 
-Open to backend and ML roles. Feel free to reach out.
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shiroorkarvaibhav@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavshiroorkar)
+Open to backend and ML roles. Feel free to reach out at vaibhavshiroorkar@gmail.com
 
 </div>
