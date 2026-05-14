@@ -167,6 +167,6 @@ Pulls live stock data, engineers indicators with Pandas, and runs a LightGBM mod
 
 <div align="center">
 
-Open to backend and ML roles. Feel free to reach out at vaibhavshiroorkar@gmail.com
+Open to Software Engineering and Machine Learning opportunities. Feel free to reach out at vaibhavshiroorkar@gmail.com
 
 </div>
