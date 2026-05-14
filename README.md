@@ -12,11 +12,11 @@
 
 ## A bit about me
 
-I'm a final-year Electronics and Computer Engineering student at K.J. Somaiya College of Engineering, with a focus on Machine Learning.
+Currently a Final-year Electronics and Computer Engineering student at K.J. Somaiya College of Engineering, currently looking for a Software Engineering role.
 
-I got into ML by picking problems that actually interested me like disease prediction, fraud detection, things that felt worth figuring out.
+I’ve always been drawn to solving problems that genuinely feel meaningful, from disease prediction to deepfake detection, the kind of challenges that make you want to dig deeper and figure things out properly.
 
-I've mostly built backend systems but I'm actively pushing towards ML and looking for a full time role.
+So far, I’ve built complete backend systems and worked across full-stack development, while actively pushing myself further into machine learning and intelligent systems.
 
 ---
 
