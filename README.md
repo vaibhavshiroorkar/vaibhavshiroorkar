@@ -71,7 +71,7 @@ So far, I’ve built complete backend systems and worked across full-stack devel
 
 <h3>
   Disease Prediction System
-  <img src="https://img.shields.io/badge/Stable_v1.0-1db954?style=flat-square" align="right" height="20" />
+  <img src="https://img.shields.io/badge/Stable_v2.0-1db954?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
 <b>Symptom checker and disease risk assessment.</b><br>
