@@ -12,11 +12,11 @@
 
 ## A bit about me
 
-I am currently a final year Electronics and Computer Engineering student at K.J. Somaiya College of Engineering.
+I am currently a final-year Electronics and Computer Engineering student at K.J. Somaiya College of Engineering.
 
 I’ve always been drawn to solving problems that feel meaningful, like disease prediction and deepfake detection, to the kind of challenges that make you want to dig deeper and figure things out properly.
 
-So far, I’ve built end to end systems and worked on the projects showcased below, while also actively deepening my understanding of machine learning.
+So far, I’ve built end-to-end systems and worked on the projects showcased below, while also actively deepening my understanding of machine learning.
 
 ---
 
@@ -76,7 +76,7 @@ So far, I’ve built end to end systems and worked on the projects showcased bel
 </h3>
 <p align="left">
 <b>Symptom checker and disease risk assessment.</b><br>
-Pick your symptoms and get a ranked list of likely conditions. Also has separate risk forms for diabetes, heart disease, and stroke, plus a weather-based outbreak predictor for mosquito-borne diseases. Built with a Random Forest and Gradient Boosting ensemble across 41 diseases.
+Pick your symptoms and get a ranked list of likely conditions. It includes separate risk calculators for diabetes, heart disease, and stroke, plus a weather-based predictor for mosquito-borne outbreaks. Built using a Random Forest and Gradient Boosting ensemble covering 41 diseases.
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/disease-prediction-system"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://diseasepredictionsystem.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
@@ -90,8 +90,8 @@ Pick your symptoms and get a ranked list of likely conditions. Also has separate
   <img src="https://img.shields.io/badge/Beta_v0.2-1fa1ff?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
-<b>Checks whether what you're seeing is real.</b><br>
-Drop in an image, video, audio clip, or some text and it tells you how likely it is to be AI-generated. Each type gets its own set of checks, pretrained classifiers, forensic signals, and an optional LLM cross-check. Returns a suspicion score with every contributing signal shown.
+<b>Checks whether what you're seeing or hearing is real.</b><br>
+Drop in an image, video, audio clip, or text snippet to see how likely it is to be AI-generated. Each media type goes through its own set of pretrained classifiers and forensic checks, alongside an optional LLM cross-check, returning a clear breakdown of every suspicious signal.
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/deepfake-detection"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://the-deepfake-detection.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
@@ -107,8 +107,8 @@ Drop in an image, video, audio clip, or some text and it tells you how likely it
   <img src="https://img.shields.io/badge/Stable_v1.0-1db954?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
-<b>Find the cheapest PC parts across India.</b><br>
-Aggregates live prices from Indian retailers with a PC builder, compatibility checker, and community forum. Adding an AI layer that recommends full builds based on use case and budget.
+<b>Find the cheapest PC parts across Indian retailers.</b><br>
+Scrapes and aggregates live component pricing into a custom PC builder with compatibility checks and a community forum. I'm currently working on an AI feature that recommends optimal full builds based on a user's exact budget and use case.
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/pcease"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://pcease.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
@@ -122,8 +122,8 @@ Aggregates live prices from Indian retailers with a PC builder, compatibility ch
   <img src="https://img.shields.io/badge/In_Progress-e05e00?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
-<b>Your personalized learning companion.</b><br>
-An intelligent tutoring system that adapts its teaching style to your pace. Uses Retrieval-Augmented Generation (RAG) to answer questions from specific materials and tracks knowledge gaps.
+<b>Your personalized, adaptive learning companion.</b><br>
+An intelligent assistant that tailors its explanations to your personal learning pace. It uses Retrieval-Augmented Generation (RAG) to answer questions directly from your study materials while keeping track of topics you still need to master.
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/ai-tutor"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/View%20Project-555555?style=for-the-badge&logoColor=white" />
@@ -134,15 +134,15 @@ An intelligent tutoring system that adapts its teaching style to your pace. Uses
     <td width="50%" valign="top">
 
 <h3>
-  PaySentry
+  Debate Game
   <img src="https://img.shields.io/badge/In_Progress-e05e00?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
-<b>Payment fraud detection in real time.</b><br>
-Scores transactions as they come in using XGBoost trained on velocity and behavioural features. Redis keeps latency low, model artifacts live on AWS S3.
+<b>Challenge a human to a real-time battle of wits.</b><br>
+An interactive platform where you can debate other users on a variety of sharp topics while an AI judge evaluates both sides. I plan to use LangChain and FastAPI to manage the live conversation flow and calculate scores based on argument strength.
 </p>
 
-<a href="https://github.com/vaibhavshiroorkar/paysentry"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/View%20Project-555555?style=for-the-badge&logoColor=white" />
+<a href="https://github.com/vaibhavshiroorkar/debate-game"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/View%20Project-555555?style=for-the-badge&logoColor=white" />
 
 </td>
 
@@ -153,8 +153,8 @@ Scores transactions as they come in using XGBoost trained on velocity and behavi
   <img src="https://img.shields.io/badge/In_Progress-e05e00?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
-<b>Payment fraud detection in real time.</b><br>
-Scores transactions as they come in using XGBoost trained on velocity and behavioural features. Redis keeps latency low, model artifacts live on AWS S3.
+<b>Catching payment fraud exactly as it happens.</b><br>
+Flags fraudulent transactions in real time using an XGBoost model trained on user behavior and spending velocity. I integrated Redis to keep system latency incredibly low and hosted the model artifacts safely on AWS S3.
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/paysentry"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/View%20Project-555555?style=for-the-badge&logoColor=white" />
