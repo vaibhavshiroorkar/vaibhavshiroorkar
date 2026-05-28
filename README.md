@@ -12,11 +12,11 @@
 
 ## A bit about me
 
-Currently a Final-year Electronics and Computer Engineering student at K.J. Somaiya College of Engineering, currently looking for a Software Engineering role.
+I am currently a final year Electronics and Computer Engineering student at K.J. Somaiya College of Engineering.
 
-I’ve always been drawn to solving problems that genuinely feel meaningful, from disease prediction to deepfake detection, the kind of challenges that make you want to dig deeper and figure things out properly.
+I’ve always been drawn to solving problems that feel meaningful like disease prediction and deepfake detection to the kind of challenges that make you want to dig deeper and figure things out properly.
 
-So far, I’ve built complete backend systems and worked across full-stack development, while actively pushing myself further into machine learning and intelligent systems.
+So far, I’ve built end to end systems and worked on the projects showcased below, while also actively deepening my understanding of machine learning.
 
 ---
 
@@ -26,7 +26,7 @@ So far, I’ve built complete backend systems and worked across full-stack devel
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Libraries**
