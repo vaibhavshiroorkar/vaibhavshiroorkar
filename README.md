@@ -14,7 +14,7 @@
 
 I am currently a final year Electronics and Computer Engineering student at K.J. Somaiya College of Engineering.
 
-I’ve always been drawn to solving problems that feel meaningful like disease prediction and deepfake detection to the kind of challenges that make you want to dig deeper and figure things out properly.
+I’ve always been drawn to solving problems that feel meaningful, like disease prediction and deepfake detection, to the kind of challenges that make you want to dig deeper and figure things out properly.
 
 So far, I’ve built end to end systems and worked on the projects showcased below, while also actively deepening my understanding of machine learning.
 
@@ -134,7 +134,7 @@ An intelligent tutoring system that adapts its teaching style to your pace. Uses
 
 <h3>
   PaySentry
-  <img src="https://img.shields.io/badge/In_Progress-e05e00?style=flat-square" align="right" height="20" />
+  <img src="https://img.shields.io/badge/In_Research-555555?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
 <b>Payment fraud detection in real time.</b><br>
@@ -165,7 +165,7 @@ Aggregates live prices from Indian retailers with a PC builder, compatibility ch
 
 <h3>
   PR Review Assistant
-  <img src="https://img.shields.io/badge/Research-555555?style=flat-square" align="right" height="20" />
+  <img src="https://img.shields.io/badge/In_Research-555555?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
 <b>Automated code review for GitHub pull requests.</b><br>
@@ -180,7 +180,7 @@ A two-stage pipeline where CodeBERT classifies the diff by issue type, then an L
 
 <h3>
   Market Pulse
-  <img src="https://img.shields.io/badge/Research-555555?style=flat-square" align="right" height="20" />
+  <img src="https://img.shields.io/badge/In_Research-555555?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
 <b>Next-day stock direction prediction.</b><br>
