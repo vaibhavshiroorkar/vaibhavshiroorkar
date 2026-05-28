@@ -56,6 +56,7 @@ So far, I’ve built complete backend systems and worked across full-stack devel
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=MLflow&logoColor=white)
 
 </div>
 
@@ -94,6 +95,37 @@ Drop in an image, video, audio clip, or some text and it tells you how likely it
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/deepfake-detection"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://the-deepfake-detection.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+<h3>
+  Debate Game
+  <img src="https://img.shields.io/badge/In_Progress-e05e00?style=flat-square" align="right" height="20" />
+</h3>
+<p align="left">
+<b>Challenge an Human to a battle of wits.</b><br>
+An interactive platform where users can debate random users on various topics. Built with LangChain and FastAPI to handle real-time arguments, scoring logic, and dynamic rebuttals.
+</p>
+
+<a href="https://github.com/vaibhavshiroorkar/debate-game"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/View%20Project-555555?style=for-the-badge&logoColor=white" />
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>
+  AI Tutor
+  <img src="https://img.shields.io/badge/In_Progress-e05e00?style=flat-square" align="right" height="20" />
+</h3>
+<p align="left">
+<b>Your personalized learning companion.</b><br>
+An intelligent tutoring system that adapts its teaching style to your pace. Uses Retrieval-Augmented Generation (RAG) to answer questions from specific materials and tracks knowledge gaps.
+</p>
+
+<a href="https://github.com/vaibhavshiroorkar/ai-tutor"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/View%20Project-555555?style=for-the-badge&logoColor=white" />
 
 </td>
   </tr>
