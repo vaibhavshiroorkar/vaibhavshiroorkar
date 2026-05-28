@@ -87,7 +87,7 @@ Pick your symptoms and get a ranked list of likely conditions. Also has separate
 
 <h3>
   Deepfake Detection
-  <img src="https://img.shields.io/badge/Beta_v0.1-1fa1ff?style=flat-square" align="right" height="20" />
+  <img src="https://img.shields.io/badge/Beta_v0.2-1fa1ff?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
 <b>Checks whether what you're seeing is real.</b><br>
@@ -99,18 +99,19 @@ Drop in an image, video, audio clip, or some text and it tells you how likely it
 </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+
+<td width="50%" valign="top">
 
 <h3>
-  Debate Game
-  <img src="https://img.shields.io/badge/In_Progress-e05e00?style=flat-square" align="right" height="20" />
+  PCEase
+  <img src="https://img.shields.io/badge/Stable_v1.0-1db954?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
-<b>Challenge an Human to a battle of wits.</b><br>
-An interactive platform where users can debate random users on various topics. Built with LangChain and FastAPI to handle real-time arguments, scoring logic, and dynamic rebuttals.
+<b>Find the cheapest PC parts across India.</b><br>
+Aggregates live prices from Indian retailers with a PC builder, compatibility checker, and community forum. Adding an AI layer that recommends full builds based on use case and budget.
 </p>
 
-<a href="https://github.com/vaibhavshiroorkar/debate-game"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/View%20Project-555555?style=for-the-badge&logoColor=white" />
+<a href="https://github.com/vaibhavshiroorkar/pcease"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://pcease.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
 
 </td>
 
@@ -134,7 +135,7 @@ An intelligent tutoring system that adapts its teaching style to your pace. Uses
 
 <h3>
   PaySentry
-  <img src="https://img.shields.io/badge/In_Research-555555?style=flat-square" align="right" height="20" />
+  <img src="https://img.shields.io/badge/In_Progress-e05e00?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
 <b>Payment fraud detection in real time.</b><br>
@@ -148,46 +149,15 @@ Scores transactions as they come in using XGBoost trained on velocity and behavi
 <td width="50%" valign="top">
 
 <h3>
-  PCEase
-  <img src="https://img.shields.io/badge/Stable_v1.0-1db954?style=flat-square" align="right" height="20" />
+  PaySentry
+  <img src="https://img.shields.io/badge/In_Progress-e05e00?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
-<b>Find the cheapest PC parts across India.</b><br>
-Aggregates live prices from Indian retailers with a PC builder, compatibility checker, and community forum. Adding an AI layer that recommends full builds based on use case and budget.
+<b>Payment fraud detection in real time.</b><br>
+Scores transactions as they come in using XGBoost trained on velocity and behavioural features. Redis keeps latency low, model artifacts live on AWS S3.
 </p>
 
-<a href="https://github.com/vaibhavshiroorkar/pcease"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://pcease.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-<h3>
-  PR Review Assistant
-  <img src="https://img.shields.io/badge/In_Research-555555?style=flat-square" align="right" height="20" />
-</h3>
-<p align="left">
-<b>Automated code review for GitHub pull requests.</b><br>
-A two-stage pipeline where CodeBERT classifies the diff by issue type, then an LLM via LangChain generates targeted feedback. Stores outcomes to improve over time.
-</p>
-
-<a href="https://github.com/vaibhavshiroorkar/pr-review-assistant"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/View%20Project-555555?style=for-the-badge&logoColor=white" />
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>
-  Market Pulse
-  <img src="https://img.shields.io/badge/In_Research-555555?style=flat-square" align="right" height="20" />
-</h3>
-<p align="left">
-<b>Next-day stock direction prediction.</b><br>
-Pulls live stock data, engineers indicators with Pandas, and runs a LightGBM model for next-day direction prediction using walk-forward validation.
-</p>
-
-<a href="https://github.com/vaibhavshiroorkar/market-pulse"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/View%20Project-555555?style=for-the-badge&logoColor=white" />
+<a href="https://github.com/vaibhavshiroorkar/paysentry"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/View%20Project-555555?style=for-the-badge&logoColor=white" />
 
 </td>
   </tr>
