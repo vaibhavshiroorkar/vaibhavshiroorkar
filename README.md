@@ -14,9 +14,9 @@
 
 I am currently a final-year Electronics and Computer Engineering student at K.J. Somaiya College of Engineering.
 
-I’ve always been drawn to solving problems that feel meaningful, like disease prediction and deepfake detection, to the kind of challenges that make you want to dig deeper and figure things out properly.
+Always have been drawn to solving problems that feel meaningful, like [disease prediction](https://github.com/vaibhavshiroorkar/disease-prediction-system) and [deepfake detection](https://github.com/vaibhavshiroorkar/deepfake-detection) to the kind problems that make you want to dig deeper and figure things out.
 
-So far, I’ve built end-to-end systems and worked on the projects showcased below, while also actively deepening my understanding of machine learning.
+Right now I'm going deeper inside Machine Learning to not just build but also understand what's actually happening.
 
 ---
 
@@ -160,10 +160,15 @@ Upload papers and ask questions that get answered with exact citations. Covers e
 </h3>
 <p align="left">
 <b>Challenge a human to a real-time battle of wits.</b><br>
-An interactive platform where you can debate other users on a variety of sharp topics while an AI judge evaluates both sides. I plan to use LangChain and FastAPI to manage the live conversation flow and calculate scores based on argument strength.
+An interactive platform where you can debate other users on a variety of sharp topics while an AI judge evaluates both sides.
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/debate-game"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/View%20Project-555555?style=for-the-badge&logoColor=white" />
+
+<!-- TODO:
+- Add LangChain to manage the live conversation flow
+- Add FastAPI backend to calculate scores based on argument strength
+-->
 
 </td>
 
