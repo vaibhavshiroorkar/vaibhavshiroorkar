@@ -81,20 +81,30 @@ Pick your symptoms and get a ranked list of likely conditions. It includes separ
 
 <a href="https://github.com/vaibhavshiroorkar/disease-prediction-system"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://diseasepredictionsystem.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
 
+<!-- TODO:
+- Add LSTM/Prophet-based epidemic forecasting module
+- Add 30-day outbreak severity prediction using historical case data, rainfall, and temperature trends
+-->
+
 </td>
 
 <td width="50%" valign="top">
 
 <h3>
-  Deepfake Detection
-  <img src="https://img.shields.io/badge/Beta_v0.2-1fa1ff?style=flat-square" align="right" height="20" />
+  PCease
+  <img src="https://img.shields.io/badge/Stable_v1.0-1db954?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
-<b>Checks whether what you're seeing or hearing is real.</b><br>
-Drop in an image, video, audio clip, or text snippet to see how likely it is to be AI-generated. Each media type goes through its own set of pretrained classifiers and forensic checks, alongside an optional LLM cross-check, returning a clear breakdown of every suspicious signal.
+<b>Build your perfect PC with ease.</b><br>
+ Uses an agentic AI which can pick the perfect parts with accurate prices and cater to your needs. You can also browse and compare parts yourself, build slot by slot with live compatibility checks, share your builds with the community, and get advice on the forum.
 </p>
 
-<a href="https://github.com/vaibhavshiroorkar/deepfake-detection"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://the-deepfake-detection.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
+<a href="https://github.com/vaibhavshiroorkar/pcease"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://pcease.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
+
+<!-- TODO:
+- Add visual representation of completed builds (Generative AI layer)
+- Add natural language explanation of every component choice with trade-off reasoning
+-->
 
 </td>
   </tr>
@@ -103,30 +113,41 @@ Drop in an image, video, audio clip, or text snippet to see how likely it is to 
 <td width="50%" valign="top">
 
 <h3>
-  PCEase
-  <img src="https://img.shields.io/badge/Stable_v1.0-1db954?style=flat-square" align="right" height="20" />
+  Deepfake Detection
+  <img src="https://img.shields.io/badge/Beta_v0.2-1fa1ff?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
-<b>Find the cheapest PC parts across Indian retailers.</b><br>
-Scrapes and aggregates live component pricing into a custom PC builder with compatibility checks and a community forum. I'm currently working on an AI feature that recommends optimal full builds based on a user's exact budget and use case.
+<b>Checks whether what you see is real.</b><br>
+Drop in an image, video, audio clip, or text snippet to see how likely it is to be AI-generated. Each media type goes through its own set of pretrained classifiers and forensic checks, alongside an optional LLM cross-check, returning a clear breakdown of every suspicious signal.
 </p>
 
-<a href="https://github.com/vaibhavshiroorkar/pcease"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://pcease.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
+<a href="https://github.com/vaibhavshiroorkar/deepfake-detection"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://the-deepfake-detection.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
+
+<!-- TODO:
+- Add facial landmark inconsistency detection
+- Add GAN fingerprint identification
+- Add spatial forensic analysis showing exactly where and why content fails
+-->
 
 </td>
 
 <td width="50%" valign="top">
 
 <h3>
-  AI Tutor
+  Research Pilot
   <img src="https://img.shields.io/badge/In_Progress-e05e00?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
-<b>Your personalized, adaptive learning companion.</b><br>
-An intelligent assistant that tailors its explanations to your personal learning pace. It uses Retrieval-Augmented Generation (RAG) to answer questions directly from your study materials while keeping track of topics you still need to master.
+<b>Your all-in-one academic research workspace.</b><br>
+Upload papers and ask questions that get answered with exact citations. Covers everything from plagiarism checking and citation generation to methodology extraction and draft writing assistance, all grounded in your uploaded content through a RAG pipeline.
 </p>
 
-<a href="https://github.com/vaibhavshiroorkar/ai-tutor"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/View%20Project-555555?style=for-the-badge&logoColor=white" />
+<a href="https://github.com/vaibhavshiroorkar/research-pilot"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/View%20Project-555555?style=for-the-badge&logoColor=white" />
+
+<!-- TODO:
+- Fine-tune Mistral-7B or LLaMA-3 using LoRA on academic Q&A datasets
+- Add domain-adapted model replacing raw API calls for core Q&A
+-->
 
 </td>
   </tr>
@@ -149,7 +170,7 @@ An interactive platform where you can debate other users on a variety of sharp t
 <td width="50%" valign="top">
 
 <h3>
-  PaySentry
+  Pay Sentry
   <img src="https://img.shields.io/badge/In_Progress-e05e00?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
@@ -158,6 +179,12 @@ Flags fraudulent transactions in real time using an XGBoost model trained on use
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/paysentry"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/View%20Project-555555?style=for-the-badge&logoColor=white" />
+
+<!-- TODO:
+- Add MLflow experiment tracking and model versioning
+- Add data drift detection
+- Add automated retraining trigger when fraud distribution shifts
+-->
 
 </td>
   </tr>
