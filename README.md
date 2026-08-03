@@ -27,7 +27,6 @@ Right now I'm going deeper inside Machine Learning to not just build but also un
 **Languages**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Libraries**
 
@@ -45,18 +44,12 @@ Right now I'm going deeper inside Machine Learning to not just build but also un
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 **Tools**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=MLflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![W&B](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 
 </div>
 
@@ -91,28 +84,6 @@ Pick your symptoms and get a ranked list of likely conditions. It includes separ
 <td width="50%" valign="top">
 
 <h3>
-  PCease
-  <img src="https://img.shields.io/badge/Stable_v1.0-1db954?style=flat-square" align="right" height="20" />
-</h3>
-<p align="left">
-<b>Build your perfect PC with ease.</b><br>
- Uses an agentic AI which can pick the perfect parts with accurate prices and cater to your needs. You can also browse and compare parts yourself, build slot by slot with live compatibility checks, share your builds with the community, and get advice on the forum.
-</p>
-
-<a href="https://github.com/vaibhavshiroorkar/pcease"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://pcease.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
-
-<!-- TODO:
-- Add visual representation of completed builds (Generative AI layer)
-- Add natural language explanation of every component choice with trade-off reasoning
--->
-
-</td>
-  </tr>
-  <tr>
-
-<td width="50%" valign="top">
-
-<h3>
   Deepfake Detection
   <img src="https://img.shields.io/badge/Beta_v0.2-1fa1ff?style=flat-square" align="right" height="20" />
 </h3>
@@ -127,6 +98,28 @@ Drop in an image, video, audio clip, or text snippet to see how likely it is to 
 - Add facial landmark inconsistency detection
 - Add GAN fingerprint identification
 - Add spatial forensic analysis showing exactly where and why content fails
+-->
+
+</td>
+  </tr>
+  <tr>
+
+<td width="50%" valign="top">
+
+<h3>
+  PCease
+  <img src="https://img.shields.io/badge/Stable_v1.0-1db954?style=flat-square" align="right" height="20" />
+</h3>
+<p align="left">
+<b>Build your perfect PC with ease.</b><br>
+ Uses an agentic AI which can pick the perfect parts with accurate prices and cater to your needs. You can also browse and compare parts yourself, build slot by slot with live compatibility checks, share your builds with the community, and get advice on the forum.
+</p>
+
+<a href="https://github.com/vaibhavshiroorkar/pcease"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://pcease.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
+
+<!-- TODO:
+- Add visual representation of completed builds (Generative AI layer)
+- Add natural language explanation of every component choice with trade-off reasoning
 -->
 
 </td>
@@ -147,48 +140,6 @@ Upload papers and ask questions that get answered with exact citations. Covers e
 <!-- TODO:
 - Fine-tune Mistral-7B or LLaMA-3 using LoRA on academic Q&A datasets
 - Add domain-adapted model replacing raw API calls for core Q&A
--->
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-<h3>
-  Debate Game
-  <img src="https://img.shields.io/badge/In_Progress-e05e00?style=flat-square" align="right" height="20" />
-</h3>
-<p align="left">
-<b>Challenge a human to a real-time battle of wits.</b><br>
-An interactive platform where you can debate other users on a variety of sharp topics while an AI judge evaluates both sides.
-</p>
-
-<a href="https://github.com/vaibhavshiroorkar/debate-game"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/View%20Project-555555?style=for-the-badge&logoColor=white" />
-
-<!-- TODO:
-- Add LangChain to manage the live conversation flow
-- Add FastAPI backend to calculate scores based on argument strength
--->
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>
-  Pay Sentry
-  <img src="https://img.shields.io/badge/In_Progress-e05e00?style=flat-square" align="right" height="20" />
-</h3>
-<p align="left">
-<b>Catching payment fraud exactly as it happens.</b><br>
-Flags fraudulent transactions in real time using an XGBoost model trained on user behavior and spending velocity. I integrated Redis to keep system latency incredibly low and hosted the model artifacts safely on AWS S3.
-</p>
-
-<a href="https://github.com/vaibhavshiroorkar/paysentry"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/View%20Project-555555?style=for-the-badge&logoColor=white" />
-
-<!-- TODO:
-- Add MLflow experiment tracking and model versioning
-- Add data drift detection
-- Add automated retraining trigger when fraud distribution shifts
 -->
 
 </td>
