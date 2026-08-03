@@ -55,7 +55,7 @@ Right now I'm going deeper inside Machine Learning to not just build but also un
 
 ---
 
-## Things I've built
+## Things I'm working on
 
 <div align="center">
 
