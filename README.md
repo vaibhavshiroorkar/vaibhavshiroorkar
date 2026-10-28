@@ -12,11 +12,11 @@
 
 ## A bit about me
 
-I am currently a final-year Electronics and Computer Engineering student at K.J. Somaiya College of Engineering.
+I am a final-year Electronics and Computer Engineering student at K.J. Somaiya College of Engineering.
 
-Always have been drawn to solving problems that feel meaningful, like [disease prediction](https://github.com/vaibhavshiroorkar/disease-prediction-system) and [deepfake detection](https://github.com/vaibhavshiroorkar/deepfake-detection) to the kind problems that make you want to dig deeper and figure things out.
+I like problems that make me dig deeper, like checking whether a [deepfake detector](https://github.com/vaibhavshiroorkar/deepfake-detection) still works on footage it never saw, or what a [disease risk model](https://github.com/vaibhavshiroorkar/disease-prediction) is actually reading.
 
-Right now I'm going deeper inside Machine Learning to not just build but also understand what's actually happening.
+Right now I'm going deeper into machine learning, to understand what the models do and not just build them.
 
 ---
 
@@ -27,6 +27,7 @@ Right now I'm going deeper inside Machine Learning to not just build but also un
 **Languages**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Libraries**
 
@@ -35,6 +36,7 @@ Right now I'm going deeper inside Machine Learning to not just build but also un
 ![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Backend**
 
@@ -48,12 +50,11 @@ Right now I'm going deeper inside Machine Learning to not just build but also un
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
 </div>
 
 ---
 
-## Things I'm working on
+## Things I've built
 
 <div align="center">
 
@@ -62,41 +63,30 @@ Right now I'm going deeper inside Machine Learning to not just build but also un
     <td width="50%" valign="top">
 
 <h3>
-  Disease Prediction System
-  <img src="https://img.shields.io/badge/Stable_v2.0-1db954?style=flat-square" align="right" height="20" />
+  PaySentry
+  <img src="https://img.shields.io/badge/Stable-1db954?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
-<b>Symptom checker and disease risk assessment.</b><br>
-Pick your symptoms and get a ranked list of likely conditions. It includes separate risk calculators for diabetes, heart disease, and stroke, plus a weather-based predictor for mosquito-borne outbreaks. Built using a Random Forest and Gradient Boosting ensemble covering 41 diseases.
+<b>A payments API that never loses track of money.</b><br>
+Every card payment is recorded in a double-entry ledger. Retries are idempotent, duplicate requests racing each other are caught, and payments stuck after a gateway timeout are recovered. Payments are routed across gateways with circuit breakers and a contextual bandit. Built with FastAPI, Postgres and Redis.
 </p>
 
-<a href="https://github.com/vaibhavshiroorkar/disease-prediction-system"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://diseasepredictionsystem.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
-
-<!-- TODO:
-- Add LSTM/Prophet-based epidemic forecasting module
-- Add 30-day outbreak severity prediction using historical case data, rainfall, and temperature trends
--->
+<a href="https://github.com/vaibhavshiroorkar/paysentry"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/View%20Project-555555?style=for-the-badge&logoColor=white" />
 
 </td>
 
 <td width="50%" valign="top">
 
 <h3>
-  Deepfake Detection
-  <img src="https://img.shields.io/badge/Beta_v0.2-1fa1ff?style=flat-square" align="right" height="20" />
+  NoteMax
+  <img src="https://img.shields.io/badge/Live-1db954?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
-<b>Checks whether what you see is real.</b><br>
-Drop in an image, video, audio clip, or text snippet to see how likely it is to be AI-generated. Each media type goes through its own set of pretrained classifiers and forensic checks, alongside an optional LLM cross-check, returning a clear breakdown of every suspicious signal.
+<b>Long-form writing where notes grow into books.</b><br>
+A local-first note app. Notes become chapters and export to Word, PDF or EPUB. It syncs through CRDTs, backs up to Google Drive with end-to-end encryption, and has drawing boards and runnable code pages. Runs on the web and as a desktop app. Built with React, TypeScript, Yjs and Tauri.
 </p>
 
-<a href="https://github.com/vaibhavshiroorkar/deepfake-detection"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://the-deepfake-detection.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
-
-<!-- TODO:
-- Add facial landmark inconsistency detection
-- Add GAN fingerprint identification
-- Add spatial forensic analysis showing exactly where and why content fails
--->
+<a href="https://github.com/vaibhavshiroorkar/notemax"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://notemax.pages.dev/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
 
 </td>
   </tr>
@@ -105,40 +95,30 @@ Drop in an image, video, audio clip, or text snippet to see how likely it is to 
 <td width="50%" valign="top">
 
 <h3>
-  PCease
-  <img src="https://img.shields.io/badge/Stable_v1.0-1db954?style=flat-square" align="right" height="20" />
+  Disease Prediction
+  <img src="https://img.shields.io/badge/Live-1db954?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
-<b>Build your perfect PC with ease.</b><br>
- Uses an agentic AI which can pick the perfect parts with accurate prices and cater to your needs. You can also browse and compare parts yourself, build slot by slot with live compatibility checks, share your builds with the community, and get advice on the forum.
+<b>Six medical models you can inspect.</b><br>
+One FastAPI service serves a symptom checker over 41 conditions, risk models for heart disease, diabetes and liver disease, dengue severity, and a malaria cell-image classifier. Every result shows the model's test accuracy, its cutoff and any inputs it had to fill in. Built with scikit-learn.
 </p>
 
-<a href="https://github.com/vaibhavshiroorkar/pcease"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://pcease.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
-
-<!-- TODO:
-- Add visual representation of completed builds (Generative AI layer)
-- Add natural language explanation of every component choice with trade-off reasoning
--->
+<a href="https://github.com/vaibhavshiroorkar/disease-prediction"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://disease-prediction-f4qa.onrender.com/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
 
 </td>
 
 <td width="50%" valign="top">
 
 <h3>
-  Research Pilot
-  <img src="https://img.shields.io/badge/In_Progress-e05e00?style=flat-square" align="right" height="20" />
+  Deepfake Generalization
+  <img src="https://img.shields.io/badge/Research-1fa1ff?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
-<b>Your all-in-one academic research workspace.</b><br>
-Upload papers and ask questions that get answered with exact citations. Covers everything from plagiarism checking and citation generation to methodology extraction and draft writing assistance, all grounded in your uploaded content through a RAG pipeline.
+<b>Do deepfake detectors work on footage they never saw?</b><br>
+A face model that scores 0.999 ROC AUC on its own test set drops to 0.67 on Celeb-DF. This project tests visual, audio and lip-sync detectors with calibrated fusion, and adds a check that withholds a verdict on unfamiliar video. The demo runs in your browser. Built with PyTorch and ONNX.
 </p>
 
-<a href="https://github.com/vaibhavshiroorkar/research-pilot"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/View%20Project-555555?style=for-the-badge&logoColor=white" />
-
-<!-- TODO:
-- Fine-tune Mistral-7B or LLaMA-3 using LoRA on academic Q&A datasets
-- Add domain-adapted model replacing raw API calls for core Q&A
--->
+<a href="https://github.com/vaibhavshiroorkar/deepfake-detection"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://huggingface.co/spaces/vaibhavshiroorkar/deepfake-generalization"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
 
 </td>
   </tr>
