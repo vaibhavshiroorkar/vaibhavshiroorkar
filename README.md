@@ -2,7 +2,7 @@
 
 # Hi, I'm Vaibhav Shiroorkar
 
-[![Website](https://img.shields.io/badge/My_Portfolio-009688?style=for-the-badge&logoColor=white)](https://shiroorkar.com)
+[![Website](https://img.shields.io/badge/My_Portfolio-009688?style=for-the-badge&logoColor=white)](https://vaibhavshiroorkar.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavshiroorkar)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vaibhavshiroorkar)
 
@@ -16,7 +16,7 @@ I am a final-year Electronics and Computer Engineering student at K.J. Somaiya C
 
 I like problems that make me dig deeper, like checking whether a [deepfake detector](https://github.com/vaibhavshiroorkar/deepfake-detection) still works on footage it never saw, or what a [disease risk model](https://github.com/vaibhavshiroorkar/disease-prediction) is actually reading.
 
-Right now I'm going deeper into machine learning, to understand what the models do and not just build them.
+Right now I'm going deeper into machine learning.
 
 ---
 
