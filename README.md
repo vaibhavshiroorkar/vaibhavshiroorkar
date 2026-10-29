@@ -64,14 +64,14 @@ Right now I'm going deeper into machine learning.
 
 <h3>
   PaySentry
-  <img src="https://img.shields.io/badge/Stable-1db954?style=flat-square" align="right" height="20" />
+  <img src="https://img.shields.io/badge/Live-1db954?style=flat-square" align="right" height="20" />
 </h3>
 <p align="left">
 <b>A payments API that never loses track of money.</b><br>
 Every card payment is recorded in a double-entry ledger. Retries are idempotent, duplicate requests racing each other are caught, and payments stuck after a gateway timeout are recovered. Payments are routed across gateways with circuit breakers and a contextual bandit. Built with FastAPI, Postgres and Redis.
 </p>
 
-<a href="https://github.com/vaibhavshiroorkar/paysentry"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/View%20Project-555555?style=for-the-badge&logoColor=white" />
+<a href="https://github.com/vaibhavshiroorkar/paysentry"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://paysentry-demo.onrender.com/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
 
 </td>
 
