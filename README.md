@@ -62,23 +62,8 @@ Right now I'm going deeper into machine learning.
     <td width="50%" valign="top">
 
 <h3>
-  PaySentry
-  <img src="https://img.shields.io/badge/Live-1db954?style=flat-square" align="right" height="20" />
-</h3>
-<p align="left">
-<b>A payments API that never loses track of money.</b><br>
-Every card payment is recorded in a double-entry ledger. Retries are idempotent, duplicate requests racing each other are caught, and payments stuck after a gateway timeout are recovered. Payments are routed across gateways with circuit breakers, and optionally a contextual bandit. Built with FastAPI, Postgres and Redis.
-</p>
-
-<a href="https://github.com/vaibhavshiroorkar/paysentry"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://paysentry-demo.onrender.com/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>
   NoteMax
-  <img src="https://img.shields.io/badge/Live-1db954?style=flat-square" align="right" height="20" />
+  <img src="https://img.shields.io/github/package-json/v/vaibhavshiroorkar/notemax?style=flat-square&label=version&color=1db954" align="right" height="20" />
 </h3>
 <p align="left">
 <b>Long-form writing where notes grow into books.</b><br>
@@ -88,6 +73,21 @@ A local-first note app. Notes become chapters and export to Word, PDF or EPUB. I
 <a href="https://github.com/vaibhavshiroorkar/notemax"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://notemax.pages.dev/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
 
 </td>
+
+<td width="50%" valign="top">
+
+<h3>
+  PaySentry
+  <img src="https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fvaibhavshiroorkar%2Fpaysentry%2Fmain%2Fpyproject.toml&query=%24.project.version&prefix=v&label=version&style=flat-square&color=1db954" align="right" height="20" />
+</h3>
+<p align="left">
+<b>A payments API that never loses track of money.</b><br>
+Every card payment is recorded in a double-entry ledger. Retries are idempotent, duplicate requests racing each other are caught, and payments stuck after a gateway timeout are recovered. It talks to Stripe in test mode and to two simulated gateways, routing between them with circuit breakers. Built with FastAPI, Postgres and Redis.
+</p>
+
+<a href="https://github.com/vaibhavshiroorkar/paysentry"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://paysentry-demo.onrender.com/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
+
+</td>
   </tr>
   <tr>
 
@@ -95,7 +95,7 @@ A local-first note app. Notes become chapters and export to Word, PDF or EPUB. I
 
 <h3>
   Disease Prediction
-  <img src="https://img.shields.io/badge/Live-1db954?style=flat-square" align="right" height="20" />
+  <img src="https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fvaibhavshiroorkar%2Fdisease-prediction%2Fmain%2Fpyproject.toml&query=%24.project.version&prefix=v&label=version&style=flat-square&color=1db954" align="right" height="20" />
 </h3>
 <p align="left">
 <b>Six medical models you can inspect.</b><br>
