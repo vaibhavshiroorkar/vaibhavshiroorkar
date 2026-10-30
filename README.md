@@ -67,7 +67,7 @@ Right now I'm going deeper into machine learning.
 </h3>
 <p align="left">
 <b>A payments API that never loses track of money.</b><br>
-Every card payment is recorded in a double-entry ledger. Retries are idempotent, duplicate requests racing each other are caught, and payments stuck after a gateway timeout are recovered. Payments are routed across gateways with circuit breakers and a contextual bandit. Built with FastAPI, Postgres and Redis.
+Every card payment is recorded in a double-entry ledger. Retries are idempotent, duplicate requests racing each other are caught, and payments stuck after a gateway timeout are recovered. Payments are routed across gateways with circuit breakers, and optionally a contextual bandit. Built with FastAPI, Postgres and Redis.
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/paysentry"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://paysentry-demo.onrender.com/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
@@ -99,7 +99,7 @@ A local-first note app. Notes become chapters and export to Word, PDF or EPUB. I
 </h3>
 <p align="left">
 <b>Six medical models you can inspect.</b><br>
-One FastAPI service serves a symptom checker over 41 conditions, risk models for heart disease, diabetes and liver disease, dengue severity, and a malaria cell-image classifier. Every result shows the model's test accuracy, its cutoff and any inputs it had to fill in. Built with scikit-learn.
+One FastAPI service serves a symptom checker over 41 conditions, risk models for heart disease, diabetes and liver disease, dengue severity, and a malaria cell-image classifier. Every result shows the model's cutoff, how that cutoff did on held-out data, and what it filled in for any blank input. Built with scikit-learn.
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/disease-prediction"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://disease-prediction-f4qa.onrender.com/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
