@@ -53,7 +53,7 @@ Right now I'm going deeper into machine learning.
 
 ---
 
-## Things I've built
+## Personal projects
 
 <div align="center">
 
@@ -72,6 +72,42 @@ A local-first note app. Notes become chapters and export to Word, PDF or EPUB. I
 
 <a href="https://github.com/vaibhavshiroorkar/notemax"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://notemax.pages.dev/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
 
+</td>
+
+<td width="50%" valign="top">
+
+<h3>FootMax</h3>
+<p align="left">
+<b>A football career and management game.</b><br>
+Build a player career or manage a club and national team. Play live matches, train, negotiate transfers, and compete in international tournaments. Includes real players and clubs, cloud saves, and a database editor. Runs on Android, iOS and the web. Built with Expo, React Native and TypeScript.
+</p>
+
+<a href="https://github.com/vaibhavshiroorkar/footmax"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://footmax.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
+
+</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## Things I've built
+
+<div align="center">
+
+<table width="100%" cellpadding="10">
+  <tr>
+    <td width="50%" valign="top">
+
+<h3>
+  Data Pipeline
+  <img src="https://img.shields.io/badge/Private-555555?style=flat-square" align="right" height="20" />
+</h3>
+<p align="left">
+<b>From unstructured data to a structured dataset.</b><br>
+A pipeline to source, ingest, clean, and normalize unstructured data. Combines SearXNG web discovery with direct APIs for data collection. Sanitizes and deduplicates content, redacts PII, and filters by language to remove unsuitable data. A Streamlit dashboard handles pipeline orchestration, live monitoring, corpus exploration, and LLM chat.
+</p>
 </td>
 
 <td width="50%" valign="top">
