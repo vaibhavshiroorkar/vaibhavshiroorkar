@@ -12,11 +12,11 @@
 
 ## A bit about me
 
-I am a final-year Electronics and Computer Engineering student at K.J. Somaiya College of Engineering.
+I'm a final-year Electronics and Computer Engineering student at K.J. Somaiya College of Engineering, interested in machine learning and software engineering.
 
-I like problems that make me dig deeper, like checking whether a [deepfake detector](https://github.com/vaibhavshiroorkar/deepfake-detection) still works on footage it never saw, or what a [disease risk model](https://github.com/vaibhavshiroorkar/disease-prediction) is actually reading.
+I enjoy building things, but I'm equally interested in understanding how well they actually work. Whether it's testing how a [deepfake detector](https://github.com/vaibhavshiroorkar/deepfake-detection) performs on unseen footage or investigating what drives a [disease prediction model](https://github.com/vaibhavshiroorkar/disease-prediction), I like going beyond getting something to work and figuring out why it works, where it fails, and how to make it better.
 
-Right now I'm going deeper into machine learning.
+Right now, I'm focused on deepening my understanding of machine learning and building systems that put it to practical use.
 
 ---
 
@@ -92,6 +92,7 @@ Build a player career or manage a club and national team. Play live matches, tra
 
 ---
 
+
 ## Things I've built
 
 <div align="center">
@@ -99,18 +100,6 @@ Build a player career or manage a club and national team. Play live matches, tra
 <table width="100%" cellpadding="10">
   <tr>
     <td width="50%" valign="top">
-
-<h3>
-  Data Pipeline
-  <img src="https://img.shields.io/badge/Private-555555?style=flat-square" align="right" height="20" />
-</h3>
-<p align="left">
-<b>From unstructured data to a structured dataset.</b><br>
-A pipeline to source, ingest, clean, and normalize unstructured data. Combines SearXNG web discovery with direct APIs for data collection. Sanitizes and deduplicates content, redacts PII, and filters by language to remove unsuitable data. A Streamlit dashboard handles pipeline orchestration, live monitoring, corpus exploration, and LLM chat.
-</p>
-</td>
-
-<td width="50%" valign="top">
 
 <h3>
   PaySentry
@@ -122,23 +111,6 @@ Every card payment is recorded in a double-entry ledger. Retries are idempotent,
 </p>
 
 <a href="https://github.com/vaibhavshiroorkar/paysentry"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://paysentry-demo.onrender.com/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
-
-</td>
-  </tr>
-  <tr>
-
-<td width="50%" valign="top">
-
-<h3>
-  Disease Prediction
-  <img src="https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fvaibhavshiroorkar%2Fdisease-prediction%2Fmain%2Fpyproject.toml&query=%24.project.version&prefix=v&label=version&style=flat-square&color=1db954" align="right" height="20" />
-</h3>
-<p align="left">
-<b>Six medical models you can inspect.</b><br>
-One FastAPI service serves a symptom checker over 41 conditions, risk models for heart disease, diabetes and liver disease, dengue severity, and a malaria cell-image classifier. Every result shows the model's cutoff, how that cutoff did on held-out data, and what it filled in for any blank input. Built with scikit-learn.
-</p>
-
-<a href="https://github.com/vaibhavshiroorkar/disease-prediction"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://disease-prediction-f4qa.onrender.com/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
 
 </td>
 
@@ -157,14 +129,36 @@ A face model that scores 0.999 ROC AUC on its own test set drops to 0.67 on Cele
 
 </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+<h3>
+  Disease Prediction
+  <img src="https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fvaibhavshiroorkar%2Fdisease-prediction%2Fmain%2Fpyproject.toml&query=%24.project.version&prefix=v&label=version&style=flat-square&color=1db954" align="right" height="20" />
+</h3>
+<p align="left">
+<b>Six medical models you can inspect.</b><br>
+One FastAPI service serves a symptom checker over 41 conditions, risk models for heart disease, diabetes and liver disease, dengue severity, and a malaria cell-image classifier. Every result shows the model's cutoff, how that cutoff did on held-out data, and what it filled in for any blank input. Built with scikit-learn.
+</p>
+
+<a href="https://github.com/vaibhavshiroorkar/disease-prediction"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://disease-prediction-f4qa.onrender.com/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>
+  Data Pipeline
+  <img src="https://img.shields.io/badge/Private-555555?style=flat-square" align="right" height="20" />
+</h3>
+<p align="left">
+<b>From unstructured data to a structured dataset.</b><br>
+A pipeline to source, ingest, clean, and normalize unstructured data. Combines SearXNG web discovery with direct APIs for data collection. Sanitizes and deduplicates content, redacts PII, and filters by language to remove unsuitable data. A Streamlit dashboard handles pipeline orchestration, live monitoring, corpus exploration, and LLM chat.
+</p>
+
+</td>
+  </tr>
 </table>
 
 </div>
 
----
-
-<div align="center">
-
-Open to Software Engineering and Machine Learning opportunities. Feel free to reach out at vaibhavshiroorkar@gmail.com
-
-</div>
