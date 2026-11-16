@@ -70,7 +70,7 @@ Right now, I'm focused on deepening my understanding of machine learning and bui
 A local-first note app. Notes become chapters and export to Word, PDF or EPUB. It syncs through CRDTs, backs up to Google Drive with end-to-end encryption, and has drawing boards and runnable code pages. Runs on the web and as a desktop app. Built with React, TypeScript, Yjs and Tauri.
 </p>
 
-<a href="https://github.com/vaibhavshiroorkar/notemax"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://notemax.pages.dev/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
+<a href="https://github.com/vaibhavshiroorkar/notemax"><img src="https://img.shields.io/badge/View%20Files-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://notemax.shiroorkar.com/"><img src="https://img.shields.io/badge/View%20Project-009688?style=for-the-badge&logoColor=white" /></a>
 
 </td>
 
